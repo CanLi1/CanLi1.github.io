@@ -31,10 +31,10 @@ permalink: /publications/
   <p>{{ publi.authors }}</p>
   <p><strong><em>{{ publi.journal }}{{ publi.year }}</em></strong></p>
   <p> 
-    {% if publi.paper != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publi.paper}}" target="_blank" rel="noopener">Paper</a>{% endif %}
-   {% if publi.preprint != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/preprint/{{ publi.preprint }}"  target="_blank" rel="noopener">Preprint</a>{% endif %}
-    {% if publi.bibtex != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/bibtex/{{ publi.bibtex }}"  target="_blank" rel="noopener">Bibtex</a>{% endif %}
-    {% if publi.slides != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/slides/{{ publi.slides }}"  target="_blank" rel="noopener">Slides</a>{% endif %}
+    {% if publi.paper != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publi.paper}}" target="_blank" rel="noopener">Paper</a>{% else %}<a></a>{% endif %}
+   {% if publi.preprint != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/preprint/{{ publi.preprint }}"  target="_blank" rel="noopener">Preprint</a>{% else %}<a></a>{% endif %}
+    {% if publi.bibtex != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/bibtex/{{ publi.bibtex }}"  target="_blank" rel="noopener">Bibtex</a>{% else %}<a></a>{% endif %}
+    {% if publi.slides != null %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/slides/{{ publi.slides }}"  target="_blank" rel="noopener">Slides</a>{% else %}<a></a>{% endif %}
   </p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
