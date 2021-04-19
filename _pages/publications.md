@@ -31,9 +31,11 @@ permalink: /publications/
   <p>{{ publi.authors }}</p>
   <p><strong><em>{{ publi.journal }}{{ publi.year }}</em></strong></p>
   <p> 
- 
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publi.paper}}" target="_blank" rel="noopener">Paper</a>
+    
+    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publi.paper}}" target="_blank" rel="noopener">Paper</a>
+    {% if "{{publi.preprint}}" != "" %}
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/preprint/{{ publi.preprint }}"  target="_blank" rel="noopener">Preprint</a>
+    {% endif %}
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/bibtex/{{ publi.bibtex }}"  target="_blank" rel="noopener">Bibtex</a>
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/slides/{{ publi.slides }}"  target="_blank" rel="noopener">Slides</a>
   </p>
