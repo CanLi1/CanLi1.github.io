@@ -31,6 +31,7 @@ permalink: /publications/
   <p>{{ publi.authors }}</p>
   <p><strong><em>{{ publi.journal }}{{ publi.year }}</em></strong></p>
   <p> 
+  <a class="btn btn-primary" href="https://link.springer.com/article/10.1007/s10898-019-00816-8" role="button">Link</a>
   <a href="https://link.springer.com/article/10.1007/s10898-019-00816-8"  target="_blank" rel="noopener">Paper</a>
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/preprint/{{ publi.preprint }}"  target="_blank" rel="noopener">Preprint</a>
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/bibtex/{{ publi.bibtex }}"  target="_blank" rel="noopener">Bibtex</a>
