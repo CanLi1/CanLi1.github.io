@@ -57,7 +57,9 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
+  {% if member.role == 1 %}
+  <a href="/images/CV/{{ member.cv }}" target="_blank" class="icon"><i class="ai ai-cv-square ai-2x"></i></a>
+  {% endif %}
   </ul>
 </div>
 
@@ -73,5 +75,5 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 

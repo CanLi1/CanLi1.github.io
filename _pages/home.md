@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [School of Chemical Engineering](https://engineering.purdue.edu/ChE) of [Purdue University](https://www.purdue.edu/). Our aim is to develop mathematical programming and machine learning algorithms for large-scale optimization problems with applications in sustainable energy systems design and operation.
+We are a research group at the [Davidson School of Chemical Engineering](https://engineering.purdue.edu/ChE) of [Purdue University](https://www.purdue.edu/). Our aim is to develop mathematical programming and machine learning algorithms for large-scale optimization problems with applications in sustainable energy systems design and operation.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
