@@ -1,0 +1,10 @@
+@article{li2020shale,
+  title={Shale gas pad development planning under price uncertainty},
+  author={Li, Can and Eason, John P and Drouven, Markus G and Grossmann, Ignacio E},
+  journal={AIChE Journal},
+  volume={66},
+  number={6},
+  pages={e16933},
+  year={2020},
+  publisher={Wiley Online Library}
+}

@@ -1,0 +1,10 @@
+@article{wang2018sequence,
+  title={Sequence-based prediction of cysteine reactivity using machine learning},
+  author={Wang, Haobo and Chen, Xuemin and Li, Can and Liu, Yuan and Yang, Fan and Wang, Chu},
+  journal={Biochemistry},
+  volume={57},
+  number={4},
+  pages={451--460},
+  year={2018},
+  publisher={ACS Publications}
+}

@@ -1,0 +1,8 @@
+@article{li2020sample,
+  title={Sample average approximation for stochastic nonconvex mixed integer nonlinear programming via outer-approximation},
+  author={Li, Can and Bernal, David E and Furman, Kevin C and Duran, Marco A and Grossmann, Ignacio E},
+  journal={Optimization and Engineering},
+  pages={1--29},
+  year={2020},
+  publisher={Springer}
+}

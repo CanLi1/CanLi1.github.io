@@ -1,0 +1,9 @@
+@article{lara2019global,
+  title={Global optimization algorithm for multi-period design and planning of centralized and distributed manufacturing networks},
+  author={Lara, Cristiana L and Bernal, David E and Li, Can and Grossmann, Ignacio E},
+  journal={Computers \& Chemical Engineering},
+  volume={127},
+  pages={295--310},
+  year={2019},
+  publisher={Elsevier}
+}

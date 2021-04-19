@@ -1,0 +1,10 @@
+@article{li2019finite,
+  title={A finite {$\epsilon$}-convergence algorithm for two-stage stochastic convex nonlinear programs with mixed-binary first and second-stage variables},
+  author={Li, Can and Grossmann, Ignacio E},
+  journal={Journal of Global Optimization},
+  volume={75},
+  number={4},
+  pages={921--947},
+  year={2019},
+  publisher={Springer}
+}

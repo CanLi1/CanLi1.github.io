@@ -1,0 +1,9 @@
+@article{li2020review,
+  title={A Review of Stochastic Programming Methods for Optimization of Process Systems under Uncertainty},
+  author={Li, Can and Grossmann, Ignacio E},
+  journal={Frontiers in Chemical Engineering},
+  volume={2},
+  pages={34},
+  year={2021},
+  publisher={Frontiers}
+}
