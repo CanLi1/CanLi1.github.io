@@ -33,9 +33,7 @@ permalink: /publications/
   <p> 
     
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publi.paper}}" target="_blank" rel="noopener">Paper</a>
-    {% if "{{publi.preprint}}" != "" %}
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/preprint/{{ publi.preprint }}"  target="_blank" rel="noopener">Preprint</a>
-    {% endif %}
+    {% if has_preprint == 1 %}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/preprint/{{ publi.preprint }}"  target="_blank" rel="noopener">Preprint</a>{% endif %}
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/bibtex/{{ publi.bibtex }}"  target="_blank" rel="noopener">Bibtex</a>
     <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/images/slides/{{ publi.slides }}"  target="_blank" rel="noopener">Slides</a>
   </p>
