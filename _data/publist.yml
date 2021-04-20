@@ -1,6 +1,6 @@
 - title: "Mixed-integer linear programming models and algorithms for generation and transmission expansion planning of power systems"
   image: 2021EJOR.png
-  description: The major economies in the world all have set their target for net zero carbon emission. To achieve this goal, the electricity capacity needs to be expanded in the next 30 years under high renewable penetration. We propose a mathematical model and solution techniques for expanding the capacity in the Texas region.
+  description: The major economies in the world all have set their target for net zero carbon emission. To achieve this goal, the electricity capacity needs to be expanded in the next 30 years under high renewable penetration. We propose a mathematical model and several solution techniques for expanding the capacity in the Texas region.
   authors: Li, C., A.J. Conejo, P. Liu, B.P. Omell, J.D. Siirola, I.E. Grossmann.
   journal: Under Review in European Journal of Operations Research
   year: (2021)
@@ -10,7 +10,7 @@
 
 - title: "On representative day selection for capacity expansion planning of power systems under extreme events"
   image: 2021Energy.png
-  description: Renewable generation and load demand can vary significantly from day to day. To capture the variations of renewable and improve the reliability of the power systems, we propose machine learning-based methods select some representative days in the capacity expansion planning model. The inclusion of the extreme events reduce the risk of blackouts in power systems planning.
+  description: Renewable generation and load demand can vary significantly from day to day. To capture the variations of renewable and improve the reliability of the power systems, we propose machine learning-based methods for selecting some representative days in the capacity expansion planning model. The inclusion of the extreme events reduce the risk of blackouts in power systems planning.
   authors: Li, C., A.J. Conejo, J.D. Siirola, I.E. Grossmann
   journal: Under Review in Energy
   year: (2021)
@@ -58,7 +58,7 @@
 - title: "Shale gas pad development planning under price uncertainty"
   authors: Li, C., Eason, J. P., Drouven, M. G., & Grossmann, I. E.
   image: 2020AICHEJ.png
-  description: Natural gas price has high volatility and is challenging to forecast. Upstream developer in the natural gas industry face the uncercertainty in the natural gas price. We solve this problem by developing a stochastic programming framework to help upstream operatiors make scheuling decisions on their wellpad under high uncertainty of natural gas price.
+  description: Natural gas price has high volatility and is challenging to have an accurate forecast. Upstream developers in the natural gas industry always face the uncercertainty in the natural gas price. A low natural gas price can make it unprofitable to develop wells. We solve this problem by developing a stochastic programming framework to help upstream operators make scheduling decisions on their wellpad under high uncertainty of natural gas price.
   journal:  AIChE Journal, 66(6), e16933
   year: (2020)
   paper: https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.16933
