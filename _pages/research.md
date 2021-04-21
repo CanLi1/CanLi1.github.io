@@ -18,24 +18,25 @@ zero carbon emission in the next few decades. As process systems engineers, we a
 sustainable energy systems to help transition to the carbon-neutral future. The new designs incorporate the chemical industry, the electricity systems that
 have both thermal and renewable generation sources, the natural gas system, etc. The tightly coupled
 energy systems could yield significant economic and environmental benefits. In addressing this problem,
-large-scale optimization problems have to be solved because of the spatial and temporal complexity of the integrated
-design and operation problems. In addition, huge amount of data from various industries  have to be processed in
- meaningful ways. To develop capabilities for solving these problems, we aim to
+large-scale optimization problems have to be solved because of the spatial and temporal complexity of the problems that integrate
+design and operating decisions and under high uncertainty. In addition, huge amount of data from different industries  have to be processed in
+ meaningful ways. To develop capabilities for solving these problems, we have to
 advance the field of mathematical optimization and machine learning.
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/energy.png){: style="width:95%; align="middle"}
 
 **Data-driven optimization under uncertainty**
 Uncertainties are prevalent in real-world decision-making processes due to changing conditions, long-term forecasts, inaccurate measurements, or lack of information. For example, uncertainties in supply chain management can arise from future customer demands, potential network disruptions, or even the spread of a pandemic. Failing to consider uncertainties in the decision-making process may lead to suboptimal or even infeasible solutions. 
 Despite the prevalence of uncertainties involved in process systems, very few uncertainty-aware decision support tools have been used in practice. 
-To address this challenge, we have been developing algorithms and software for a mathematical framework called <a href="https://en.wikipedia.org/wiki/Stochastic_programming" target="_blank">"stochastic programming"</a>, which optimizes the expected objective, such as expected cost, over all the possible realizations of the uncertainties.
-We are especially interested in problems under the uncertainty of rare events, such as extreme weather including wild fire, hurricanes, and snowstorms, that cause
+To address this challenge, we have been developing algorithms and software for a mathematical framework called <a href="https://en.wikipedia.org/wiki/Stochastic_programming" target="_blank">stochastic programming</a>, which optimizes the expected objective, such as expected cost, over all the possible realizations of the uncertainties.
+We are especially interested in problems under the uncertainty of rare events, such as extreme weather including wild fire, hurricanes, and snowstorm, that cause
 supply chain disruption or power systems blackout. The aim is to design reliable and economic supply chain and energy infrastructure using these mathematical frameworks.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/extremeweather.png){: style="width:50%; align="middle"}
 
 **Machine learning for discrete and global optimization**
 Decision-making in process systems engineering typically involves discrete variables and nonlinear constraints,
-which gives rise to mixed-integer nonlinear programming (MINLP) problems. MINLP problems are <a href="https://en.wikipedia.org/wiki/NP-hardness" target="_blank"> NP-hard </a>
+which give rise to mixed-integer nonlinear programming (MINLP) problems. MINLP problems are <a href="https://en.wikipedia.org/wiki/NP-hardness" target="_blank"> NP-hard </a>
 in general, which means that they suffer from the "curse of dimensionality". Machine learning or surrogate models are
 fast to implement but have no guarantee of optimality. However, there are potential benefits in developing machine learning models
 to accelerate the solution of MINLP problems, where we use techniques including <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">deep learning</a> and <a href="https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning." target="_blank">reinforcement learning</a>.
@@ -53,5 +54,5 @@ the state-of-the-art hardware solving large-scale optimization problems. We plan
 are amenable to be solved using cloud computing. Graphical Processing Units (<a href="https://en.wikipedia.org/wiki/Graphics_processing_unit" target="_blank"> GPU</a>) and Tensor Processing Units (<a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit" target="_blank">TPU</a>) will be used for laborious machine
 learning tasks. Quantum computing architecture, such as D-Wave <a href="https://en.wikipedia.org/wiki/Quantum_annealing" target="_blank">quantum annealer</a> will be used for combinatorial optimization problems.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/hardware.png){: style="width:50%; align="middle"}
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/hardware.png" width="50%" align="middle"}
 
