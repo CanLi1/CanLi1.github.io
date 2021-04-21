@@ -22,7 +22,7 @@ design and operating decisions and under high uncertainty. In addition, the huge
  meaningful ways. To develop capabilities for solving these problems, we have to
 advance the field of mathematical optimization and machine learning.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/energy.png){: style="width:95%; align="middle"}
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/energy.png" width="95%" style="display:block; margin-left: auto; margin-right: auto;">
 
 **Data-driven optimization under uncertainty**
 Uncertainties are prevalent in real-world decision-making processes due to changing conditions, long-term forecasts, inaccurate measurements, or lack of information. For example, uncertainties in supply chain management can arise from future customer demands, potential network disruptions, or even the spread of a pandemic. Failing to consider uncertainties in the decision-making process may lead to suboptimal or even infeasible solutions. 
@@ -31,7 +31,7 @@ To address this challenge, we have been developing algorithms and software for a
 We are especially interested in problems under the uncertainty of rare events, such as extreme weather including wildfire, hurricanes, and snowstorms, that cause
 supply chain disruption or power systems blackout. The aim is to design reliable and economic supply chain and energy infrastructure using these mathematical frameworks.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/extremeweather.png){: style="width:50%; align="middle"}
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/extremeweather.png" width="50%" style="display:block; margin-left: auto; margin-right: auto;">
 
 **Machine learning for discrete and global optimization**
 Decision-making in process systems engineering typically involves discrete variables and nonlinear constraints,
@@ -44,8 +44,7 @@ A recent review of this area can be found <a href="https://www.sciencedirect.com
 **Multi-scale models and algorithms**
 Decision-making in process systems engineering involves large temporal and spatial scales. Strategic decisions are made on a yearly basis, e.g., the supply chain design of a large geographical region. Tactical decisions, such as production targets, are made on a monthly or weekly basis. Scheduling and real-time optimization decisions are made on a daily or hourly basis. Process control of a reactor or flowsheet is made every few minutes or seconds. One could spend his/her career in one of the five levels of the decision-making processes. However, making decisions at the strategic level while neglecting the decisions at lower levels can lead to suboptimal or even infeasible supply chain designs. On the other hand, integrating models at various scales prevents information loss and ensures that models are consistent across scales. It also allows uncertainty to be propagated across scales to ensure that both the true uncertainty and the source of that uncertainty are known. We aim to develop a hybrid multi-scale modeling approach that combines data-driven reduced-order models with rigorous optimization algorithms.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/multiscale.png){: style="width:60%; align="middle"}
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/multiscale.png" width="70%" style="display:block; margin-left: auto; margin-right: auto;">
 
 **Parallel computing and advanced computational architecture**
 The current revolution in AI and machine learning is largely driven by advances in hardware. We aim to leverage 
