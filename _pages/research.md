@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to develop theory, algorithms, models, and software for large-scale optimization problems with applications in sustainable energy systems, for which we rely on mathematical programming and machine learning techniques.
+Our overarching goal is to develop theory, algorithms, models, and software for large-scale optimization problems with applications in sustainable energy systems. The fundamentals of our research are mathematical programming, statistics, and machine learning.
 
 Here are several research areas that we currently work on:
 
@@ -23,12 +23,22 @@ design and operation problems. In addition, huge amount of data from various ind
  meaningful ways. To develop capabilities for solving these problems, we aim to
 advance the field of mathematical optimization and machine learning.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/energy.png){: style="width:95%; float: center; margin: 10px"}
+
 **Data-driven optimization under uncertainty**
+Uncertainties are prevalent in real-world decision-making processes due to changing conditions, long-term forecasts, inaccurate measurements, or lack of information. For example, uncertainties in supply chain management can arise from future customer demands, potential network disruptions, or even the spread of a pandemic. Failing to consider uncertainties in the decision-making process may lead to suboptimal or even infeasible solutions. 
+Despite the prevalence of uncertainties involved in process systems, very few uncertainty-aware decision support tools have been used in practice. 
+To address this challenge, we have been developing algorithms and software for a mathematical framework called <a, href="https://en.wikipedia.org/wiki/Stochastic_programming"target="_blank">"stochastic programming"</a>, which optimizes the expected objective, such as expected cost, over all the possible realizations of the uncertainties.
+We are especially interested in problems under the uncertainty of rare events, such as extreme weather including wild fire, hurricanes, and snowstorms, that cause
+supply chain disruption or power systems blackout. The aim is to design reliable and economic supply chain and energy infrastructure using these mathematical frameworks.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/extremeweather.png){: style="width:50%; float: center; margin: 10px"}
+
 **Machine learning for discrete and global optimization**
+
 
 **Multi-scale models and algorithms**
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/multiscale.png){: style="width:60%; float: center; margin: 10px"}
+
+
 **Parallel computing and advanced computational architecture**
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/hardware.png){: style="width:50%; float: center; margin: 10px"}
 ### ... and more.
