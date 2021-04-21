@@ -13,13 +13,12 @@ Our overarching goal is to develop theory, algorithms, models, and software for 
 Here are several research areas that we currently work on:
 
 **Sustainable energy systems design** 
-The major economies in the world including the U.S., EU, and China all have set their goals to achieve net
-zero carbon emission in the next few decades. As process systems engineers, we aim to design
-sustainable energy systems to help transition to the carbon-neutral future. The new designs incorporate the chemical industry, the electricity systems that
+The major economies in the world including the U.S., EU, and China all have set their goals to achieve net-zero carbon emission in the next few decades. As process systems engineers, we aim to design
+sustainable energy systems to help transition to the carbon-neutral future. The new designs incorporate the chemical industry, the power systems that
 have both thermal and renewable generation sources, the natural gas system, etc. The tightly coupled
 energy systems could yield significant economic and environmental benefits. In addressing this problem,
 large-scale optimization problems have to be solved because of the spatial and temporal complexity of the problems that integrate
-design and operating decisions and under high uncertainty. In addition, huge amount of data from different industries  have to be processed in
+design and operating decisions and under high uncertainty. In addition, the huge amount of data from different industries  have to be processed in
  meaningful ways. To develop capabilities for solving these problems, we have to
 advance the field of mathematical optimization and machine learning.
 
@@ -54,5 +53,5 @@ the state-of-the-art hardware solving large-scale optimization problems. We plan
 are amenable to be solved using cloud computing. Graphical Processing Units (<a href="https://en.wikipedia.org/wiki/Graphics_processing_unit" target="_blank">GPU</a>) and Tensor Processing Units (<a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit" target="_blank">TPU</a>) will be used for laborious machine
 learning tasks. Quantum computing architecture, such as D-Wave <a href="https://en.wikipedia.org/wiki/Quantum_annealing" target="_blank">quantum annealer</a> will be used for combinatorial optimization problems.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/hardware.png" width="50%" class="center" align="middle">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/hardware.png" width="50%" class="center">
 
