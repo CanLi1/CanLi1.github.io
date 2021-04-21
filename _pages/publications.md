@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=EkwNNlAAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Can-Li-9))
+(For a full list see [below](#full-list) or go to <a href="https://scholar.google.com/citations?user=EkwNNlAAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Can-Li-9" target="_blank">ResearchGater</a>.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
