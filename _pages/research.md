@@ -54,5 +54,5 @@ the state-of-the-art hardware solving large-scale optimization problems. We plan
 are amenable to be solved using cloud computing. Graphical Processing Units (<a href="https://en.wikipedia.org/wiki/Graphics_processing_unit" target="_blank">GPU</a>) and Tensor Processing Units (<a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit" target="_blank">TPU</a>) will be used for laborious machine
 learning tasks. Quantum computing architecture, such as D-Wave <a href="https://en.wikipedia.org/wiki/Quantum_annealing" target="_blank">quantum annealer</a> will be used for combinatorial optimization problems.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/hardware.png" width="50%" align="middle"}>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/hardware.png" width="50%" align="middle">
 
