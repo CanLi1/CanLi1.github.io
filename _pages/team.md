@@ -26,16 +26,37 @@ permalink: /team/
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
    <h4>Education</h4>
-   <ul style="margin:1em">
+   <ul style="overflow: hidden">
    <li>B.Eng., Tsinghua University, 2016</li>
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
-</ul>   
-     <ul style="margin:1em">
-   <li>B.Eng., Tsinghua University, 2016</li>
- <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
- <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
-</ul>  
+<h4>Research Expertise</h4> <a>Stochastic programming</a>
+<h4>Honors and Awards</h4>
+      <ul style="overflow: hidden">
+   <li>Honorable mention award, 42nd Annual CHEGSA Symposium, Carnegie Mellon University, 2020</li>
+ <li>Best Poster Award, Center for Advanced Process Decision-making (CAPD) annual meeting, 2018</li>
+ <li>Jinyong Award, Department of Chemical Engineering, Tsinghua University, 2015</li>
+    <li>CSC Scholarship, Exchange Student at UW-Madison, 2014</li>
+ <li>Member, Spark Talents Program for Technological Innovation, Tsinghua University, 2014</li>
+ <li>Comprehensive Excellent Scholarship (3/116 in Department of Chemical Engineering), Tsinghua University, 2013</li>
+ <li>First Prize (1st of Henan Province, China), National Olympiad in Chemistry, 2011</li>
+</ul> 
+ <h4>Review Service</h4>
+ <ul style="overflow: hidden">
+   <li>Optimization and Engineering</li>
+ <li>Computers & Chemical Engineering</li>
+ <li>Journal of Global Optimization</li>
+    <li>Mathematical Programming</li>
+ <li>International Journal of Electrical Power and Energy Systems</li>
+ <li>Computers and Electrical Engineering </li>
+ <li>SN Operations Research Forum</li>
+</ul> 
+  <h4>Conference Organization</h4>
+   <ul style="overflow: hidden">
+   <li>Cluster Chair, INFORMS Annual Meeting, 2020</li>
+ <li>Session Chair, INFORMS Annual Meeting, 2020</li>
+ <li>Session Chair, XV ICSP conference, Trondheim, 2019</li>
+</ul> 
 
  
 
