@@ -12,16 +12,14 @@ permalink: /team/
 
 ## Principle Investigator
 
-<figure>
+<figure class="sqs-block-image-figure intrinsic">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="20%" style="float: left" />
-<figcaption><div class="image-caption">
+<figcaption class="image-caption-wrapper"><div class="image-caption">
 <p class="" style="white-space:pre-wrap;">email:
  <a href="mailto:canl1@andrew.cmu.edu">canl1@andrew.cmu.edu</a>
  </p>
  <p class="" style="white-space:pre-wrap;">                <a href="/images/CV/Can_Li_CV_academia.pdf" target="_blank" class="icon"><i class="ai ai-cv-square ai-2x"></i></a>	  <a href="https://twitter.com/Can__Li" target="_blank" class="icon"><i class="fab fa-twitter-square fa-2x"></i></a>
 		  <a href="https://scholar.google.com/citations?user=EkwNNlAAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-		  <a href="https://www.linkedin.com/in/can-li-b36647a4/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
-		  <a href="https://github.com/CanLi1" target="_blank" class="icon"><i class="fab fa-github-square fa-2x"></i></a>  </p>
  </div>
  </figcaption>
 </figure>
