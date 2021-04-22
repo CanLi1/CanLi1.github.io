@@ -28,7 +28,7 @@ permalink: /team/
 		  <a href="https://scholar.google.com/citations?user=EkwNNlAAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
 		  <a href="https://www.linkedin.com/in/can-li-b36647a4/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
 		  <a href="https://github.com/CanLi1" target="_blank" class="icon"><i class="fab fa-github-square fa-2x"></i></a></h4>
- <h4>Honors and awards
+ <h4>Honors and awards</h4>
  <h4>Service</h4>
  </div>
 
