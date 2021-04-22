@@ -51,8 +51,8 @@ permalink: /team/
 </ul>  
 <h4>Honors and Awards</h4>
       <ul style="overflow: hidden">
-   <li>Honorable mention award, 42nd Annual CHEGSA Symposium, Carnegie Mellon University, 2020</li>
-
+   <li>Honorable mention award</li>
+   <li>Honorable mention award</li>
 </ul> 
 </div>   
  
