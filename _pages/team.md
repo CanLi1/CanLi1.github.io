@@ -59,7 +59,7 @@ permalink: /team/
 </ul> 
   <h4>Conference Organization</h4>
    <ul style="overflow: hidden">
-   <li>Cluster Chair, INFORMS Annual Meeting, 2020/li>
+   <li>Cluster Chair, INFORMS Annual Meeting, 2020</li>
  <li>Session Chair, INFORMS Annual Meeting, 2020</li>
  <li>Session Chair, XV ICSP conference, Trondheim, 2019</li>
 </ul> 
