@@ -13,7 +13,9 @@ permalink: /team/
 ## Principle Investigator
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="20%" style="float: left" />
-<div class="sqs-block-content"> 
+<div class="col sqs-col-5 span-5">
+<div class="sqs-block html-block sqs-block-html" data-block-type="2" >
+<div class="sqs-block-content">
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
    <h4>Education</h4>
@@ -33,7 +35,8 @@ permalink: /team/
  <h4>Service</h4>
   <h4>Honors and awards</h4>
  <h4>Service</h4>
- </div>
+
+</div></div></div>
 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
