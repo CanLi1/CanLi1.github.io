@@ -17,7 +17,7 @@ permalink: /team/
 <div data-block-plugin-id="inline_block:text"  class="block block-layout-builder block-inline-blocktext">
 <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
  
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="20%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="90%" style="float: left" />
 </div></div></div></div>
 <div class="col-md-9 radix-layouts-content panel-panel">
 <div class="panel-panel-inner">
