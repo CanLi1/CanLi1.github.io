@@ -11,9 +11,25 @@ permalink: /team/
  **We are actively looking for new PhD students, Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Principle Investigator
+<div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" >
 
-<figure class="sqs-block-image-figure">
+ <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " >
+                        
+<div style="padding-bottom: 120%; overflow: hidden;" class="
+                image-block-wrapper
+ has-aspect-ratio
+              " data-animation-role="image" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="20%" style="float: left" />
+ </div>
 <figcaption class="image-caption-wrapper">
 <div class="image-caption">
 <p class="" style="white-space:pre-wrap;">email:
@@ -26,7 +42,10 @@ permalink: /team/
   </p>
  </div>
  </figcaption>
-</figure>
+ </figure>
+      
+ </div>
+
 <div class="sqs-block-content"> 
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
