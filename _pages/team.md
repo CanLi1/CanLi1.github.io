@@ -52,8 +52,13 @@ permalink: /team/
 </ul>  
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
-   <li>Honorable mention award</li>
-   <li>Honorable mention award</li>
+   <li>Honorable mention award, 42nd Annual CHEGSA Symposium, Carnegie Mellon University, 2020</li>
+ <li>Best Poster Award, Center for Advanced Process Decision-making (CAPD) annual meeting, 2018</li>
+ <li>Jinyong Award, Department of Chemical Engineering, Tsinghua University, 2015</li>
+    <li>CSC Scholarship, Exchange Student at UW-Madison, 2014</li>
+ <li>Member, Spark Talents Program for Technological Innovation, Tsinghua University, 2014</li>
+ <li>Comprehensive Excellent Scholarship (3/116 in Department of Chemical Engineering), Tsinghua University, 2013</li>
+ <li>First Prize (1st of Henan Province, China), National Olympiad in Chemistry, 2011</li>
 </ul> 
 </div>  </div> </div>  
  
