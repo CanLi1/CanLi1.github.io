@@ -11,6 +11,8 @@ permalink: /team/
  **We are actively looking for new PhD students, Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Principle Investigator
+
+  <div class="row">
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="80%" style="float: left" /><br />
 <p>email:
@@ -58,6 +60,6 @@ permalink: /team/
  <li>Comprehensive Excellent Scholarship (3/116 in Department of Chemical Engineering), Tsinghua University, 2013</li>
  <li>First Prize (1st of Henan Province, China), National Olympiad in Chemistry, 2011</li>
 </ul> 
-</div> 
+</div>  </div>  
  
 
