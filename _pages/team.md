@@ -31,7 +31,6 @@ permalink: /team/
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
 </ul>   
-  <h4>Research Expertise</h4>
      <ul style="overflow: hidden">
    <li>B.Eng., Tsinghua University, 2016</li>
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
