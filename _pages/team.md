@@ -12,13 +12,13 @@ permalink: /team/
 
 ## Principle Investigator
 
-<div class="col-md-3 radix-layouts-content panel-panel">
+<div class="col-md-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="95%" style="float: left" /><br />
 <p>email:
  <a href="mailto:canl1@andrew.cmu.edu">canl1@andrew.cmu.edu</a>
  </p>
 </div>
-<div class="col-md-9 radix-layouts-content panel-panel">
+<div class="col-md-6">
 
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
