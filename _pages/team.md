@@ -11,41 +11,8 @@ permalink: /team/
  **We are actively looking for new PhD students, Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Principle Investigator
-<div class="image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" >
 
- <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " >
-                        
-<div style="padding-bottom: 120%; overflow: hidden;" class="
-                image-block-wrapper
- has-aspect-ratio
-              " data-animation-role="image" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="20%" style="float: left" />
- </div>
-<figcaption class="image-caption-wrapper">
-<div class="image-caption">
-<p class="" style="white-space:pre-wrap;">email:
- <a href="mailto:canl1@andrew.cmu.edu">canl1@andrew.cmu.edu</a>
- </p>
- <p class="" style="white-space:pre-wrap;">  
-   <a href="/images/CV/Can_Li_CV_academia.pdf" target="_blank" class="icon"><i class="ai ai-cv-square ai-2x"></i></a>	 
-    <a href="https://twitter.com/Can__Li" target="_blank" class="icon"><i class="fab fa-twitter-square fa-2x"></i></a>
-    <a href="https://scholar.google.com/citations?user=EkwNNlAAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-  </p>
- </div>
- </figcaption>
- </figure>
-      
- </div>
-
 <div class="sqs-block-content"> 
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
