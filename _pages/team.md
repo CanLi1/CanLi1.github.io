@@ -25,7 +25,7 @@ permalink: /team/
  </div>
  </figcaption>
 </figure>
-<div style="text-align: left"> 
+<div class="sqs-block-content"> 
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
    <h4>Education</h4>
