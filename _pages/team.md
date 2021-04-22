@@ -26,7 +26,7 @@ permalink: /team/
   <h3>Can Li</h3>
    <i> Assistant professor, starting August 2022</i>
    <h4>Education</h4>
-   <ul style="overflow: hidden">
+   <ul style="margin:1em">
    <li>B.Eng., Tsinghua University, 2016</li>
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
