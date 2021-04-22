@@ -11,8 +11,10 @@ permalink: /team/
  **We are actively looking for new PhD students, Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Principle Investigator
-
+<div class="col sqs-col-5 span-8">
+<div class="col sqs-col-5 span-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="20%" style="float: left" />
+</div>
 <div class="col sqs-col-5 span-5">
 <div class="sqs-block html-block sqs-block-html" data-block-type="2" >
 <div class="sqs-block-content">
@@ -36,7 +38,7 @@ permalink: /team/
   <h4>Honors and awards</h4>
  <h4>Service</h4>
 
-</div></div></div>
+</div></div></div></div>
 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
