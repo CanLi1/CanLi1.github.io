@@ -51,7 +51,7 @@ permalink: /team/
  <li>Session Chair, XV ICSP conference, Trondheim, 2019</li>
 </ul>  
 <h4>Honors and Awards</h4>
-      <ul style="overflow: hidden">
+<ul style="overflow: hidden">
    <li>Honorable mention award</li>
    <li>Honorable mention award</li>
 </ul> 
