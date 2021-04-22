@@ -30,6 +30,7 @@ permalink: /team/
    <li>B.Eng., Tsinghua University, 2016</li>
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
+</ul>
 <h4>Research Expertise</h4> <a>Stochastic programming</a>
 <h4>Honors and Awards</h4>
       <ul style="overflow: hidden">
@@ -56,10 +57,7 @@ permalink: /team/
    <li>Cluster Chair, INFORMS Annual Meeting, 2020</li>
  <li>Session Chair, INFORMS Annual Meeting, 2020</li>
  <li>Session Chair, XV ICSP conference, Trondheim, 2019</li>
-</ul> 
-
- 
-
+</ul>  
 </div>   
  
 
