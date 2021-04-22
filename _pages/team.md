@@ -14,7 +14,7 @@ permalink: /team/
 <div class="container">
   <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="100%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Can_Li.jpg" class="img-responsive" width="95%" style="float: left" /><br />
 <p>email:
  <a href="mailto:canl1@andrew.cmu.edu">canl1@andrew.cmu.edu</a>
  </p>
