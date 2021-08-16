@@ -43,6 +43,12 @@ permalink: /team/
  <li>International Journal of Electrical Power and Energy Systems</li>
  <li>Computers and Electrical Engineering </li>
  <li>SN Operations Research Forum</li>
+<li>AIChE Journal</li>
+<li>IEEE Transactions on Control Systems Technology</li>
+<li>ACS Sustainable Chemistry \& Engineering</li>
+<li>Transportation Research Part E</li>
+<li>Networks and Spatial Economics</li>
+ 
 </ul> 
   <h4>Conference Organization</h4>
    <ul style="overflow: hidden">
