@@ -45,7 +45,7 @@ permalink: /team/
  <li>SN Operations Research Forum</li>
 <li>AIChE Journal</li>
 <li>IEEE Transactions on Control Systems Technology</li>
-<li>ACS Sustainable Chemistry \& Engineering</li>
+<li>ACS Sustainable Chemistry & Engineering</li>
 <li>Transportation Research Part E</li>
 <li>Networks and Spatial Economics</li>
  
