@@ -2,8 +2,9 @@
   image: 2021EJOR.png
   description: The major economies in the world all have set their target for net zero carbon emission. To achieve this goal, the electricity capacity needs to be expanded in the next 30 years under high renewable penetration. We propose a mathematical model and several solution techniques for expanding the capacity in the Texas region.
   authors: Li, C., A.J. Conejo, P. Liu, B.P. Omell, J.D. Siirola, I.E. Grossmann.
-  journal: Under Review in European Journal of Operations Research
+  journal: European Journal of Operations Research
   year: (2021)
+  paper: https://www.sciencedirect.com/science/article/pii/S0377221721005397?casa_token=4ixbz08pQwEAAAAA:IWnFrCuufvv4EzZykvtMO6DntJzkhenEKPE5cTqkY263ppi0NOOdVkc2Eor7K3ypqyL8KL55lDVT
   preprint: 2021EJOR.pdf
   slides: 2021EJOR.pdf
   highlight: 1
