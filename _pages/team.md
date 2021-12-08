@@ -14,12 +14,12 @@ permalink: /team/
 ## PhDs
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/null.png" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
 
-  <h3>Asha Ramanujam</h3>
+  <h4>Asha Ramanujam</h4>
    <i> Joined the group in Fall 2021</i><br>
    <i> B.Tech., Chemical Engineering, Indian Institute of Technology Madras, 2021</i>
   <p> <strong> Research topic:</strong> electrification, stochastic programming </p> 
@@ -31,5 +31,6 @@ permalink: /team/
  </p>
 </div>  </div> 
 
- 
+ <br>
+  <br> <br> <br> <br> <br> <br> <br> <br>
 
