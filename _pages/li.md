@@ -21,7 +21,7 @@ permalink: /li/
 <div class="col-sm-9">
 
   <h3>Can Li</h3>
-   <i> Assistant professor, starting August 2022</i>
+   <i> Assistant professor, starting June 2022</i>
    <h4>Education</h4>
    <ul style="overflow: hidden">
    <li>B.Eng., Tsinghua University, 2016</li>
@@ -35,6 +35,7 @@ permalink: /li/
    <li>Optimization and Engineering</li>
  <li>Computers & Chemical Engineering</li>
  <li>Journal of Global Optimization</li>
+ <li> SIAM Journal on Optimization </li>
     <li>Mathematical Programming</li>
  <li>International Journal of Electrical Power and Energy Systems</li>
  <li>Computers and Electrical Engineering </li>
@@ -48,12 +49,14 @@ permalink: /li/
 </ul> 
   <h4>Conference Organization</h4>
    <ul style="overflow: hidden">
+   <li>Session Chair, INFORMS Annual Meeting, 2021</li>
    <li>Cluster Chair, INFORMS Annual Meeting, 2020</li>
  <li>Session Chair, INFORMS Annual Meeting, 2020</li>
  <li>Session Chair, XV ICSP conference, Trondheim, 2019</li>
 </ul>  
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
+<li>CAST Division Student Presentation Award, 3rd place, 2021</li>
    <li>Honorable mention award, 42nd Annual CHEGSA Symposium, Carnegie Mellon University, 2020</li>
  <li>Best Poster Award, Center for Advanced Process Decision-making (CAPD) annual meeting, 2018</li>
  <li>Jinyong Award, Department of Chemical Engineering, Tsinghua University, 2015</li>
