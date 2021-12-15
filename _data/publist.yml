@@ -7,18 +7,27 @@
   paper: https://www.sciencedirect.com/science/article/pii/S0377221721005397?casa_token=4ixbz08pQwEAAAAA:IWnFrCuufvv4EzZykvtMO6DntJzkhenEKPE5cTqkY263ppi0NOOdVkc2Eor7K3ypqyL8KL55lDVT
   preprint: 2021EJOR.pdf
   slides: 2021EJOR.pdf
+  bibtex: 2021EJOR.bib
   highlight: 1
 
-- title: "On representative day selection for capacity expansion planning of power systems under extreme events"
+- title: "On representative day selection for capacity expansion planning of power systems under extreme operating conditions"
   image: 2021Energy.png
   description: Renewable generation and load demand can vary significantly from day to day. To capture the variations of renewable and improve the reliability of the power systems, we propose machine learning-based methods for selecting some representative days in the capacity expansion planning model. The inclusion of the extreme events reduce the risk of blackouts in power systems planning.
   authors: Li, C., A.J. Conejo, J.D. Siirola, I.E. Grossmann
-  journal: Under Review in Energy
+  journal: International Journal of Electrical Power & Energy Systems
   year: (2021)
   preprint: 2021Energy.pdf
   highlight: 1
+  paper: https://www.sciencedirect.com/science/article/pii/S0142061521009248
+  slides: Energy2021.pdf
+  bibtex: 2021energy.bib
 
-
+- title: "Shale gas field development planning under production profile uncertainty"
+  authors: Peng, Z., Li, C., Grossmann, I. E., Kwon, K., Ko, S., Shin, J., & Feng, Y.
+  journal:  AIChE Journal, e17439.
+  year: (2021)
+  paper: https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.17439?casa_token=biIcwovvn70AAAAA%3AVmFqoqyKguZUBVS9Hz5YaHks2uJUiC-r8anZKmeCn0wirS73-P49q8qlyCC3s8T2MUc-p-Ous7ligShqLQ
+  bibtex: 2021AICHEJ2.bib
 
 - title: "A Review of Stochastic Programming Methods for Optimization of Process Systems Under Uncertainty"
   authors: Li, C., & Grossmann, I. E.
