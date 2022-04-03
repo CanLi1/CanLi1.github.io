@@ -1,3 +1,10 @@
+- title: " A Review on the Performance of Linear and Mixed Integer Two-Stage Stochastic Programming Software"
+  authors: Torres, J. J., Li, C., Apap, R. M., & Grossmann, I. E.
+  journal:   Algorithms, 15(4)
+  year: (2022)
+  paper: https://www.mdpi.com/1999-4893/15/4/103
+  bibtex: 2022MDPI.bib
+
 - title: "Mixed-integer linear programming models and algorithms for generation and transmission expansion planning of power systems"
   image: 2021EJOR.png
   description: The major economies in the world all have set their target for net zero carbon emission. To achieve this goal, the electricity capacity needs to be expanded in the next 30 years under high renewable penetration. We propose a mathematical model and several solution techniques for expanding the capacity in the Texas region.
