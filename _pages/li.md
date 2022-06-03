@@ -16,7 +16,7 @@ permalink: /li/
  </p>
  <p>    <a href="https://twitter.com/Can__Li" target="_blank" class="icon"><i class="fab fa-twitter-square fa-2x"></i></a>
     <a href="https://scholar.google.com/citations?user=EkwNNlAAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-   <a href="/images/CV/Can_Li_CV_academia.pdf" target="_blank" class="icon"><i class="ai ai-cv-square ai-2x"></i></a></p>
+   <a href="/images/CV/CV_CanLi.pdf" target="_blank" class="icon"><i class="ai ai-cv-square ai-2x"></i></a></p>
 </div>
 <div class="col-sm-9">
 
