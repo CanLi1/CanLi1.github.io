@@ -1,3 +1,11 @@
+- title: " Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization"
+  authors: Cho, S., Li, C., & Grossmann, I. E.
+  journal:  Computers & Chemical Engineering, 107924.
+  year: (2022)
+  paper: https://www.sciencedirect.com/science/article/pii/S0098135422002629?casa_token=hJXU2yK_jEQAAAAA:A4KEv5YpYHyhm7Ioq959kxG_YXcnlZPuXNv52WzRJgo3tVnecuT8EAgIJQP6NWMY_lYuHfEwBw
+  preprint: 2022CACE.pdf
+  bibtex: 2022CACE.bib
+
 - title: " A Review on the Performance of Linear and Mixed Integer Two-Stage Stochastic Programming Software"
   authors: Torres, J. J., Li, C., Apap, R. M., & Grossmann, I. E.
   journal:   Algorithms, 15(4)

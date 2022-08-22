@@ -1,9 +1,9 @@
 - name: Can Li
   photo: Can_Li.jpg
-  info: Assistant professor, starting August 2022
-  email: canli.pse@gmail.com
+  info: Assistant professor
+  email: canli@purdue.edu
   role: 1
-  cv: Can_Li_CV_academia.pdf
+  cv: CV_CanLi.pdf
   number_educ: 3
   education1: B.Eng., Tsinghua University, 2016
   education2: Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021
