@@ -29,6 +29,7 @@ permalink: /li/
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
 </ul>
 <h4>Research Expertise</h4> Stochastic Programming; Mixed-Integer Programming; Energy Systems <br />
+<h4>Research Affiliation</h4> <a href="https://cistar.us/about-cistar"  target="_blank"> CISTAR</a>; <a href="https://engineering.purdue.edu/ICON"  target="_blank"> ICON</a> <br />
 
  <h4>Review Service</h4>
  <ul style="overflow: hidden">
