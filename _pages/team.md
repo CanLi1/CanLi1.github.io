@@ -22,6 +22,9 @@ permalink: /team/
    <i> Joined the group in Summer 2022</i><br>
    <i> Ph.D., Chemical Engineering, Texas A&M University, 2022</i>
   <p> <strong> Research topic:</strong> multiscale algorithms </p> 
+  <p>email:
+ <a href="mailto:cao425@purdue.edu">cao425@purdue.edu</a>
+ </p> 
  <p>
  <a href="https://www.linkedin.com/in/kaiyu-cao-4b55a1186/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  <a href="https://scholar.google.com/citations?user=VYNxpywAAAAJ&hl=en&oi=ao" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
