@@ -68,6 +68,47 @@ permalink: /team/
  </p>
 </div>  </div> 
 
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Lu.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Yen-Chun Lu</h4>
+   <i> Joined the group in Fall 2022</i><br>
+<i> Co-advised with <a href="https://sites.google.com/view/xiaoping-bao/home">Xiaoping Bao</a></i><br>
+   <i> B.S., Chemical Engineering, National Taiwan University, 2021</i>
+  <p> <strong> Research topic:</strong> machine learning for stem cell </p> 
+  <p>email:
+ <a href="mailto:lu992@purdue.edu">lu992@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/yen-chun-lu-88407a23a" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Hao.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Hao Chen</h4>
+   <i> Joined the group in Fall 2022</i><br>
+   <i> B.Eng., Chemical Engineering, University of Nottingham, 2020</i>
+<i>MPhil, Biotechnology, University of Cambridge, 2021</i>
+  <p> <strong> Research topic:</strong> explainable machine learning</p> 
+  <p>email:
+ <a href="mailto:chen4433@purdue.edu">chen4433@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="linkedin.com/in/hao-chen-369a43197" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+
  <br>
   <br> <br> <br> <br> <br> <br> <br> <br>
 
