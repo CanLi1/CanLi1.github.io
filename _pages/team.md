@@ -98,8 +98,8 @@ permalink: /team/
 
   <h4>Hao Chen</h4>
    <i> Joined the group in Fall 2022</i><br>
-   <i> B.Eng., Chemical Engineering, University of Nottingham, 2020</i><br>
-<i>MPhil, Biotechnology, University of Cambridge, 2021</i>
+<i>MPhil, Biotechnology, University of Cambridge, 2021</i><br>
+   <i> B.Eng., Chemical Engineering, University of Nottingham, 2020</i>
   <p> <strong> Research topic:</strong> explainable machine learning</p> 
   <p>email:
  <a href="mailto:chen4433@purdue.edu">chen4433@purdue.edu</a>
