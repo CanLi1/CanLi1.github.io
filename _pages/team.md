@@ -31,6 +31,8 @@ permalink: /team/
  </p>
 </div>  </div> 
 
+
+
 <div class="row">
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chi.jpg" class="img-responsive" width="80%" style="float: left" /><br />
@@ -47,6 +49,26 @@ permalink: /team/
  </p> 
 </div>  </div> 
 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gonzalo.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Gonzalo Esteban Constante Flores</h4>
+   <i> Joined the group in Spring 2023</i><br>
+   <i> Ph.D., Electrical and Computer Engineering, The Ohio State University, 2022</i>
+  <p> <strong> Research topic:</strong> power systems optimization </p> 
+  <p>email:
+ <a href="mailto:geconsta@purdue.edu">geconsta@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/gconstantef/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://scholar.google.com.ec/citations?user=KFCcT3MAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+ </p>
+</div>  </div> 
 
 ## PhDs
 <div class="row">
@@ -131,5 +153,35 @@ permalink: /team/
 
 
  <br>
+
+## Undergraduate Researchers
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zheng.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Annie Zheng</h4>
+  
+   <i> Junior in Industrial Engineering</i>
+ 
+ <p>
+ <a href="https://www.linkedin.com/in/annie-zheng-46b45214b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Yash.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Yash Sinhal</h4>
+  
+   <i> Sophomore in Computer Science</i>
+
+</div>  </div> 
   <br> <br> <br> <br> <br> <br> <br> <br>
 
