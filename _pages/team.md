@@ -127,7 +127,7 @@ permalink: /team/
  <a href="mailto:chen4433@purdue.edu">chen4433@purdue.edu</a>
  </p> 
  <p>
- <a href="linkedin.com/in/hao-chen-369a43197" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://www.linkedin.com/in/hao-chen-369a43197" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p>
 </div>  </div> 
 
