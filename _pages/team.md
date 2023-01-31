@@ -183,5 +183,20 @@ permalink: /team/
    <i> Sophomore in Computer Science</i>
 
 </div>  </div> 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaatani.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Jaatani Abdi</h4>
+  
+   <i> Sophomore in Chemical Engineering</i>
+ <p>
+ <a href="https://www.linkedin.com/in/jaataniabdi/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
   <br> <br> <br> <br> <br> <br> <br> <br>
 
