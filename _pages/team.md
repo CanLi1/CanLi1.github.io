@@ -33,21 +33,7 @@ permalink: /team/
 
 
 
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chi.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
 
-  <h4>Chi Zhang</h4>
-   <i> Joined the group in Summer 2022</i><br>
-   <i> Ph.D., Control Theory and Control Technology, Northeastern University, 2022</i>
-  <p> <strong> Research topic:</strong> end-to-end machine learning </p> 
-  <p>email:
- <a href="mailto:zhangch@purdue.edu">zhangch@purdue.edu</a>
- </p> 
-</div>  </div> 
 
 
 <div class="row">
@@ -180,4 +166,5 @@ permalink: /team/
  </p>
 </div>  </div> 
   <br> <br> <br> <br> <br> <br> <br> <br>
+
 
