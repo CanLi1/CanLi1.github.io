@@ -6,7 +6,7 @@ sitemap: false
 permalink: /courses
 ---
 
-## CHE697 Computational Optimization, Spring 2024
+## CHE 597: Computational Optimization, Spring 2024
 
 **Instructor:** Can Li 
 **Email:** canli@purdue.edu
