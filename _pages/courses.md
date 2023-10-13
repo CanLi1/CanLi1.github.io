@@ -16,7 +16,7 @@ permalink: /courses
 ### Course Description:
 This is a graduate-level introductory course to mathematical optimization. We will cover the theory and algorithms of linear programming, mixed-integer linear/nonlinear programming, conic programming, global optimization of nonconvex problems, and decomposition algorithms for mixed-integer programs. Special focus will be given to using the APIs of modern computational software including CPLEX, Gurobi, Mosek, Pytorch with implementations in Python. We will motivate the algorithms using modern applications in chemical engineering, transportation, energy systems, machine learning, and control.
 
-The course lectures will be 30% proofs, 50% algorithms, computation, and programming, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
+The course lectures will be 30% proofs, 50% algorithms and computation, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
 
 ### Topics Covered (tentative)
 #### Optimization basics
