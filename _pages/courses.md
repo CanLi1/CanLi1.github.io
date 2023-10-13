@@ -6,14 +6,14 @@ sitemap: false
 permalink: /courses
 ---
 
-# CHE697 Computational Optimization, Spring 2024
+## CHE697 Computational Optimization, Spring 2024
 
 **Instructor:** Can Li 
 **Email:** canli@purdue.edu
 
 ---
 
-## Course Description:
+### Course Description:
 This is a graduate-level introductory course to mathematical optimization. We will cover the theory and algorithms of linear programming, mixed-integer linear/nonlinear programming, conic programming, global optimization of nonconvex problems, and decomposition algorithms for mixed-integer programs. Special focus will be given to using the APIs of modern computational software including CPLEX, Gurobi, Mosek, Pytorch with implementations in Python. We will motivate the algorithms using modern applications in chemical engineering, transportation, energy systems, machine learning, and control.
 
 The course lectures will be 30% proofs, 50% algorithms, computation, and programming, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
@@ -24,6 +24,7 @@ The course lectures will be 30% proofs, 50% algorithms, computation, and program
 - Unconstrained optimization, gradient descent, Newton's method
 - Simple applications of optimization models
 - Modeling using pyomo
+
 #### Linear and conic programming
 - Applications
 - Basics of polyhedral theory, LP duality
@@ -61,7 +62,8 @@ The course lectures will be 30% proofs, 50% algorithms, computation, and program
 - Advanced solver callbacks
 - Parallel computing
 - GPU computing
-## Recommended Textbooks:
+
+### Recommended Textbooks:
 This class will not exactly follow any textbook. But we may cover some of the content in the following textbooks.
 1. Grossmann, I. E. (2021). Advanced optimization for process systems engineering. Cambridge University Press.
 2. Wolsey, L. A. (2020). Integer programming. John Wiley & Sons.
@@ -69,13 +71,13 @@ This class will not exactly follow any textbook. But we may cover some of the co
 4. Ben-Tal, A., & Nemirovski, A. (2001). Lectures on modern convex optimization: analysis, algorithms, and engineering applications. Society for industrial and applied mathematics.
 5. Conforti, M., Cornuéjols, G., Zambelli, G., Conforti, M., Cornuéjols, G., & Zambelli, G. (2014). Integer programming models (pp. 45-84). Springer International Publishing.
 
-## Software
+### Software
 We will use the following software 
 - [Pyomo](https://www.pyomo.org/) is a collection of Python software packages for formulating optimization models. Tutorial: [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/README.html)
 - [Gurobi](https://www.gurobi.com/documentation/) and [Cplex](https://www.ibm.com/products/ilog-cplex-optimization-studio) are both high-performance mathematical programming solver for linear programming, mixed integer programming, and quadratic programming.
 - [Mosek](https://www.mosek.com/) is a software package for the solution of linear, mixed-integer linear, quadratic, mixed-integer quadratic, quadratically constraint, conic and convex nonlinear mathematical optimization problems.
 
-## Prerequisite
+### Prerequisite
 
 Some familiarity with linear algebra, calculus, and programming in python is required.
 - YouTube videos review of linear algebra and calculus by [3Blue1Brown](https://www.youtube.com/@3blue1brown/courses)
