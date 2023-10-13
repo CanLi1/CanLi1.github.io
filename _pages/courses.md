@@ -18,7 +18,7 @@ This is a graduate-level introductory course to mathematical optimization. We wi
 
 The course lectures will be 30% proofs, 50% algorithms, computation, and programming, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
 
-## Topics Covered (tentative)
+### Topics Covered (tentative)
 #### Optimization basics
 - Convex sets, functions
 - Unconstrained optimization, gradient descent, Newton's method
@@ -84,6 +84,12 @@ Some familiarity with linear algebra, calculus, and programming in python is req
 - [Linear algebra review](https://www.cs.cmu.edu/~zkolter/course/linalg/index.html)  videos by Zico Kolter
 - General mathematical review: Appendix A of  [Boyd and Vandenberghe (2004)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
+### Related courses
+- [Convex optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/) by Ryan Tibshirani 
+- [Convex analysis](https://ocw.mit.edu/courses/6-253-convex-analysis-and-optimization-spring-2012/pages/syllabus/) by Dimitri Bertsekas
+- [Linear programming](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html) by Santanu Dey
+- [Integer programming](https://coral.ise.lehigh.edu/~ted/teaching/ie418/) by Ted Ralphs
+- [Linear and convex optimization classes](https://www2.isye.gatech.edu/~nemirovs/) by Arkadi Nemirovski
 
 **Last updated:** October 12, 2023
 <br /><br /><br /><br /><br /><br /><br /><br />
