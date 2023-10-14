@@ -69,13 +69,15 @@ This class will not exactly follow any textbook. But we may cover some of the co
 2. Wolsey, L. A. (2020). Integer programming. John Wiley & Sons.
 3. Bertsimas, D., & Tsitsiklis, J. N. (1997). Introduction to linear optimization (Vol. 6, pp. 479-530). Belmont, MA: Athena scientific.
 4. Ben-Tal, A., & Nemirovski, A. (2001). Lectures on modern convex optimization: analysis, algorithms, and engineering applications. Society for industrial and applied mathematics.
-5. Conforti, M., Cornuéjols, G., Zambelli, G., Conforti, M., Cornuéjols, G., & Zambelli, G. (2014). Integer programming models (pp. 45-84). Springer International Publishing.
+5. Conforti, M., Cornuéjols, G., Zambelli, G (2014). Integer programming. Graduate Texts in Mathematics
+6. Boyd, S. P., & Vandenberghe, L. (2004). Convex optimization. Cambridge university press.
 
 ### Software
 We will use the following software 
 - [Pyomo](https://www.pyomo.org/) is a collection of Python software packages for formulating optimization models. Tutorial: [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/README.html)
 - [Gurobi](https://www.gurobi.com/documentation/) and [Cplex](https://www.ibm.com/products/ilog-cplex-optimization-studio) are both high-performance mathematical programming solver for linear programming, mixed integer programming, and quadratic programming.
 - [Mosek](https://www.mosek.com/) is a software package for the solution of linear, mixed-integer linear, quadratic, mixed-integer quadratic, quadratically constraint, conic and convex nonlinear mathematical optimization problems.
+- [Pytorch](https://pytorch.org/) PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
 
 ### Prerequisite
 
