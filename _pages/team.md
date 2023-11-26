@@ -127,65 +127,155 @@ permalink: /team/
 
   <h4>Akshdeep Singh Ahluwalia</h4>
    <i> Joined the group in Fall 2023</i><br>
-<i>M.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2023</i><br>
-   <i> B.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2023</i>
+   <i> M.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2023</i>
   <p> <strong> Research topic:</strong> distributed optimization for data sharing</p> 
   <p>email:
  <a href="mailto:ahluwala@purdue.edu">ahluwala@purdue.edu</a>
  </p> 
  <p>
- <a href="www.linkedin.com/in/akshdeep-singh1023" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://www.linkedin.com/in/akshdeep-singh1023" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
+
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Sai.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Sai Madhukiran Kompalli</h4>
+   <i> Joined the group in Fall 2023</i><br>
+   <i> M.S, Chemical Engineering, Carnegie Mellon University, 2022</i><br>
+    <i> M.Tech., Chemical Engineering, Indian Institute of Technology Guwahati, 2021</i><br>
+   <i> B.Tech., Chemical Engineering, Osmania University, 2020</i>
+  <p> <strong> Research topic:</strong> explaining optimization and machine learning models using LLM</p> 
+  <p>email:
+ <a href="mailto:skompall@purdue.edu">skompall@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/madhukiran-k" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
+
+## Master Students
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ipsit.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Krishna Sri Ipsit Mantri</h4>
+   <i> Joined the group in Fall 2023</i><br>
+   <i> B.Tech., Electrical Engineering, Indian Institute of Technology Bombay, 2022</i>
+  <p> <strong> Research topic:</strong> explaining optimization models using LLM </p> 
+  <p>email:
+ <a href="mailto:mantrik@purdue.edu">mantrik@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p>
 </div>  </div> 
 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/null.png" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Abdullah Khan</h4>
+   <i> Joined the group in Fall 2023</i><br>
+   <i> B.Tech., Computer Science, Indian Institute of Technology Palakkad, 2022</i>
+  <p> <strong> Research topic:</strong> explaining machine learning models using LLM </p> 
+  <p>email:
+ <a href="mailto:khan440@purdue.edu">khan440@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
 
 
  <br>
 
-## Undergraduate Researchers
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zheng.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
+[//]: # (## Undergraduate Researchers)
 
-  <h4>Annie Zheng</h4>
-  
-   <i> Junior in Industrial Engineering</i>
- 
- <p>
- <a href="https://www.linkedin.com/in/annie-zheng-46b45214b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
+[//]: # (<div class="row">)
 
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Yash.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
+[//]: # (<div class="col-sm-3">)
 
-  <h4>Yash Sinhal</h4>
-  
-   <i> Sophomore in Computer Science</i>
+[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zheng.jpeg" class="img-responsive" width="80%" style="float: left" /><br />)
 
-</div>  </div> 
+[//]: # ( )
+[//]: # (</div>)
 
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaatani.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
+[//]: # (<div class="col-sm-9">)
 
-  <h4>Jaatani Abdi</h4>
-  
-   <i> Sophomore in Chemical Engineering</i>
- <p>
- <a href="https://www.linkedin.com/in/jaataniabdi/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
+[//]: # ()
+[//]: # (  <h4>Annie Zheng</h4>)
+
+[//]: # (  )
+[//]: # (   <i> Junior in Industrial Engineering</i>)
+
+[//]: # ( )
+[//]: # ( <p>)
+
+[//]: # ( <a href="https://www.linkedin.com/in/annie-zheng-46b45214b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>)
+
+[//]: # ( </p>)
+
+[//]: # (</div>  </div> )
+
+[//]: # ()
+[//]: # (<div class="row">)
+
+[//]: # (<div class="col-sm-3">)
+
+[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Yash.jpg" class="img-responsive" width="80%" style="float: left" /><br />)
+
+[//]: # ( )
+[//]: # (</div>)
+
+[//]: # (<div class="col-sm-9">)
+
+[//]: # ()
+[//]: # (  <h4>Yash Sinhal</h4>)
+
+[//]: # (  )
+[//]: # (   <i> Sophomore in Computer Science</i>)
+
+[//]: # ()
+[//]: # (</div>  </div> )
+
+[//]: # ()
+[//]: # (<div class="row">)
+
+[//]: # (<div class="col-sm-3">)
+
+[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaatani.jpg" class="img-responsive" width="80%" style="float: left" /><br />)
+
+[//]: # ( )
+[//]: # (</div>)
+
+[//]: # (<div class="col-sm-9">)
+
+[//]: # ()
+[//]: # (  <h4>Jaatani Abdi</h4>)
+
+[//]: # (  )
+[//]: # (   <i> Sophomore in Chemical Engineering</i>)
+
+[//]: # ( <p>)
+
+[//]: # ( <a href="https://www.linkedin.com/in/jaataniabdi/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>)
+
+[//]: # ( </p>)
+
+[//]: # (</div>  </div> )
   <br> <br> <br> <br> <br> <br> <br> <br>
 
 
