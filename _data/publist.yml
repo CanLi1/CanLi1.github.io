@@ -1,3 +1,19 @@
+- title: " Diagnosing Infeasible Optimization Problems Using Large Language Models"
+  authors: Chen, H., Constante-Flores, G., & Li, C.
+  journal:  arXiv preprint
+  year: (2023)
+  paper: https://arxiv.org/abs/2308.12923
+  preprint: 2023ARXIV.pdf
+  bibtex: 2023ARXIV.bib
+
+- title: " Distributed manufacturing for electrified chemical processes in a microgrid"
+  authors: Ramanujam, A., Constante-Flores, G., & Li, C.
+  journal:  AIChE Journal, 69(12), e18265.
+  year: (2023)
+  paper: https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.18265
+  preprint: 2023AICHE.pdf
+  bibtex: 2023AICHE.bib
+
 - title: " Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization"
   authors: Cho, S., Li, C., & Grossmann, I. E.
   journal:  Computers & Chemical Engineering, 107924.

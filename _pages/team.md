@@ -127,7 +127,7 @@ permalink: /team/
 
   <h4>Akshdeep Singh Ahluwalia</h4>
    <i> Joined the group in Fall 2023</i><br>
-   <i> M.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2023</i>
+   <i> B.Tech. + M.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2023</i>
   <p> <strong> Research topic:</strong> distributed optimization for data sharing</p> 
   <p>email:
  <a href="mailto:ahluwala@purdue.edu">ahluwala@purdue.edu</a>

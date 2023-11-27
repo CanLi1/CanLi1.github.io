@@ -1,0 +1,15 @@
+@article{https://doi.org/10.1002/aic.18265,
+author = {Ramanujam, Asha and Constante-Flores, Gonzalo E. and Li, Can},
+title = {Distributed manufacturing for electrified chemical processes in a microgrid},
+journal = {AIChE Journal},
+volume = {69},
+number = {12},
+pages = {e18265},
+keywords = {distributed manufacturing, electrification, mathematical optimization, multiscale integration},
+doi = {https://doi.org/10.1002/aic.18265},
+url = {https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.18265},
+eprint = {https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/aic.18265},
+abstract = {Abstract To alleviate the greenhouse gas emissions by the chemical industry, electrification has been proposed as a solution where electricity from renewable sources is used to power processes. The adoption of renewable energy is complicated by its spatial and temporal variations. To address this challenge, we investigate the potential of distributed manufacturing for electrified chemical processes installed in a microgrid. We propose a multiscale mixed-integer linear programming model for locating modular electrified plants, renewable-based generating units, and power lines in a microgrid that includes monthly transportation and hourly scheduling decisions. We propose a K-means clustering-based aggregation disaggregation matheuristic to solve the model efficiently. The model and algorithm are tested using a case study with 20 candidate locations in Western Texas. Additionally, we define a new concept, “the Value of the Multi-scale Model,” to demonstrate the additional economic benefits of our model compared with a single-scale model.},
+year = {2023}
+}
+
