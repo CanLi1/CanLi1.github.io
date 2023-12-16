@@ -12,6 +12,10 @@ Our overarching goal is to develop theory, algorithms, models, and software for 
 
 Here are several research areas that we currently work on:
 
+**Explain Optimization and Machine Learning Models using LLM**
+One of the primary barriers to deploying optimization or machine learning models in practice is the challenge of helping practitioners understand and interpret such models. For example, mathematical optimization has wide applications in real-world decision-making problems, but the optimization models formulated from these problems are usually infeasible at firsthand because no decision satisfies all the constraints predefined by the problems. When practitioners or incapable operators encounter an infeasible optimization model, their ability to find the root causes and take corrective actions is limited. A first-of-its-kind system that enables natural language-based diagnosis and troubleshooting for infeasible optimization models using LLM is proposed in our recent work. Our ongoing efforts focus on extending the functionalities and applicability of our system, in order to make mathematical optimization and machine learning models more explainbale and accessible. 
+
+
 **Sustainable energy systems design** 
 The major economies in the world including the U.S., EU, and China all have set their goals to achieve net-zero carbon emission in the next few decades. As process systems engineers, we aim to design
 sustainable energy systems to help transition to the carbon-neutral future. The new designs incorporate the chemical industry, the power systems that
