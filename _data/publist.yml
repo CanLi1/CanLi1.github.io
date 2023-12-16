@@ -1,4 +1,6 @@
 - title: " Diagnosing Infeasible Optimization Problems Using Large Language Models"
+  image: 2023OptiChat.pdf
+  description: One of the primary barriers to deploying optimization or machine learning models in practice is the challenge of helping practitioners understand and interpret such models. We propose a first-of-its-kind system that enables natural language-based diagnosis and troubleshooting for infeasible optimization models using LLM. 
   authors: Chen, H., Constante-Flores, G., & Li, C.
   journal:  arXiv preprint
   year: (2023)
