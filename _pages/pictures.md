@@ -4,30 +4,13 @@ layout: piclay
 excerpt: "Li Group -- Pictures"
 permalink: /pictures/
 ---
-#### Gallery
-&#40;Right-click *'view image'* to see a larger image.&#41;
+# Gallery
 
-{% assign number_printed = 0 %}
-
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
+## 2023 Summer
 <div class="row">
-{% endif %}
-
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ 2023summer.jpeg }}" class="img-responsive" width="95%" style="float: left" />
 </div>
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
 
 
 

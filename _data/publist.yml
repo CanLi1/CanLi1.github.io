@@ -10,8 +10,8 @@
   highlight: 1
 
 - title: " Distributed manufacturing for electrified chemical processes in a microgrid"
-  image: 2023microgrid.png
-  description: Electrification is a potential solution to alleviate the greenhouse gas emissions of chemical industries. However, spatial and temporal variations complicate the adoption of renewable energy. We propose a multi-scale MILP model for locating modular electrified plants, renewable-based generating units, and power lines in a microgrid that includes monthly transportation and hourly scheduling decisions.
+  image: 2023Microgrid.png
+  description: Electrification is a potential solution to alleviate the greenhouse gas emissions of chemical industries. However, spatial and temporal variations complicate the adoption of renewable energy. We propose a multi-scale MILP model for locating modular electrified plants, renewable-based generating units, and power lines in a microgrid.
   authors: Ramanujam, A., Constante-Flores, G., & Li, C.
   journal:  AIChE Journal, 69(12), e18265.
   year: (2023)
