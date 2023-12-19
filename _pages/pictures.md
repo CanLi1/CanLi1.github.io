@@ -8,7 +8,6 @@ permalink: /pictures/
 
 ## 2023 Summer
 <div class="row">
-<div class="col-sm-3 clearfix" style="width: 100%; height: 100%;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2023summer.png" class="img-responsive" style="display: block; margin: auto; width: 100%; height: auto;" />
 </div>
 
