@@ -106,5 +106,32 @@ Some familiarity with linear algebra, calculus, and programming in python is req
 - [Integer programming](https://coral.ise.lehigh.edu/~ted/teaching/ie418/) by Ted Ralphs
 - [Linear and convex optimization classes](https://www2.isye.gatech.edu/~nemirovs/) by Arkadi Nemirovski
 
-**Last updated:** October 12, 2023
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Last Updated Example</title>
+</head>
+<body>
+
+<div id="last-updated">Last updated: </div>
+
+<script>
+// Function to format the date as "Month day, Year"
+function formatDate(date) {
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    return date.toLocaleDateString('en-US', options);
+}
+
+// Get the current date
+const today = new Date();
+
+// Update the content of the 'last-updated' div with the current date
+document.getElementById('last-updated').textContent += formatDate(today);
+</script>
+
+</body>
+</html>
+
 <br /><br /><br /><br /><br /><br /><br /><br />
