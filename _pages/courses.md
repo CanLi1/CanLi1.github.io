@@ -18,7 +18,9 @@ This is a graduate-level introductory course to mathematical optimization. We wi
 
 The course lectures will be 30% proofs, 50% algorithms and computation, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
 
-| Date       | Topic                                                                       | Slides     | Homework | Handouts |
+### Syllabus
+
+| Date    <br />    | Topic      <br />                                                                  | Slides  <br />    | Homework  <br />| Handouts |
 |--|----|--|--|--|
 | Tue Jan 9   | Introduction to Course                                                      |  |      |         [Pyomo Tutorial](https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201) |
 | Thu Jan 11   | Convex sets, functions                                                      | |          |          |
