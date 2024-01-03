@@ -19,14 +19,14 @@ This is a graduate-level introductory course to mathematical optimization. We wi
 The course lectures will be 30% proofs, 50% algorithms and computation, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
 
 | Date       | Topic                                                                       | Slides     | Homework | Handouts |
-|----------------------|-----------------------------------------------------------------------------|------------|----------|----------|
+|-------------------------------|--------------------------------------------------------|---------------------|-------------------|-------------------|
 | Tue Jan 9  | Introduction to Course                                                      |  |      |         [Pyomo Tutorial]() |
 | Thu Jan 11 | Convex sets, functions                                                      | |          |          |
 | Tue Jan 16 | Unconstrained optimization                                |  |          |          |
 | Thu Jan 18 | Linear Programming Applications                                                             | |          |          |
 | Tue Jan 23 | Polyhedron Theory                                |  |     |          |
  | Thu Jan 25 |   Linear Programming Duality                                                     |  |          |          |
-<!--| Tue Jan 30 | Applications                                                                | [Slides]() | HW 3     |          |
+<!---| Tue Jan 30 | Applications                                                                | [Slides]() | HW 3     |          |
 | Thu Feb 1  | Basics of polyhedral theory, LP duality                                     | [Slides]() |          |          |
 | Tue Feb 6  | SOCP                                                                        | [Slides]() | HW 4     |          |
 | Thu Feb 8  | SDP, Goemans-Williamson                                                     | [Slides]() |          |          |
@@ -52,7 +52,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Thu Apr 19 | Lagrangian decomposition                                                    | [Slides]() |          |          |
 | Tue Apr 24 | ADMM                                                                        | [Slides]() | HW 14    |          |
 | Thu Apr 26 | Numerical linear algebra                                                    | [Slides]() |          |          |
-| Tue Apr 27 | Advanced solver callbacks, Parallel computing, GPU computing                | [Slides]() |          |          | -->
+| Tue Apr 27 | Advanced solver callbacks, Parallel computing, GPU computing                | [Slides]() |          |          | --->
 
 
 ### Topics Covered (tentative)
