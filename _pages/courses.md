@@ -26,33 +26,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Thu Jan 18 | Linear Programming Applications                                                             | |          |          |
 | Tue Jan 23 | Polyhedron Theory                                |  |     |          |
  | Thu Jan 25 |   Linear Programming Duality                                                     |  |          |          |
-<!---| Tue Jan 30 | Applications                                                                | [Slides]() | HW 3     |          |
-| Thu Feb 1  | Basics of polyhedral theory, LP duality                                     | [Slides]() |          |          |
-| Tue Feb 6  | SOCP                                                                        | [Slides]() | HW 4     |          |
-| Thu Feb 8  | SDP, Goemans-Williamson                                                     | [Slides]() |          |          |
-| Tue Feb 13 | Applications                                                                | [Slides]() | HW 5     |          |
-| Thu Feb 15 | Optimality conditions                                                       | [Slides]() |          |          |
-| Tue Feb 20 | Barrier algorithm, interior point algorithm                                 | [Slides]() | HW 6     |          |
-| Thu Feb 22 | Review for Midterm                                                          | [Slides]() |          |          |
-| Tue Feb 27 | **Midterm Exam**                                                            |            |          |          |
-| Thu Mar 1  | Modeling of discrete and continuous decisions                               | [Slides]() | HW 7     |          |
-| Tue Mar 6  | Propositional logic, modeling of disjunctions                               | [Slides]() |          |          |
-| Thu Mar 8  | Applications                                                                | [Slides]() | HW 8     |          |
-| Tue Mar 13 | **Spring Break (No Class)**                                                 |            |          |          |
-| Thu Mar 15 | **Spring Break (No Class)**                                                 |            |          |          |
-| Tue Mar 20 | Branch and bound                                                            | [Slides]() | HW 9     |          |
-| Thu Mar 22 | Cutting planes                                                              | [Slides]() |          |          |
-| Tue Mar 27 | Disjunctive programming                                                     | [Slides]() | HW 10    |          |
-| Thu Mar 29 | Applications                                                                | [Slides]() |          |          |
-| Tue Apr 3  | Convex relaxations, McCormick Inequality                                    | [Slides]() | HW 11    |          |
-| Thu Apr 5  | Spatial branch and bound                                                    | [Slides]() |          |          |
-| Tue Apr 10 | Mixed-integer nonlinear programming                                         | [Slides]() | HW 12    |          |
-| Thu Apr 12 | Benders decomposition, stochastic programming                               | [Slides]() |          |          |
-| Tue Apr 17 | Dantzig Wolfe decomposition, column generation, vehicle routing problems    | [Slides]() | HW 13    |          |
-| Thu Apr 19 | Lagrangian decomposition                                                    | [Slides]() |          |          |
-| Tue Apr 24 | ADMM                                                                        | [Slides]() | HW 14    |          |
-| Thu Apr 26 | Numerical linear algebra                                                    | [Slides]() |          |          |
-| Tue Apr 27 | Advanced solver callbacks, Parallel computing, GPU computing                | [Slides]() |          |          | --->
+
 
 
 ### Topics Covered (tentative)
