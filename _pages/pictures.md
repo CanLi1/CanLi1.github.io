@@ -4,6 +4,15 @@ layout: piclay
 excerpt: "Li Group -- Pictures"
 permalink: /pictures/
 ---
+# Gallery
+
+## 2023 Summer
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2023summer.png" class="img-responsive" style="display: block; margin: auto; width: 50%; height: auto;" />
+</div>
+
+
+
 
 [//]: # (# Pictures)
 
