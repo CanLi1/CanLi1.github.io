@@ -91,11 +91,25 @@ firstp {
     margin-right: 30px;
 }
 
+/* Add a border to the table and each cell */
 table {
-    border-collapse: separate;
-    border-spacing: 10px 0; /* Adjust the 10px to increase or decrease spacing */
+    border-collapse: collapse; /* Use 'separate' if you want to increase spacing between cells */
+    width: 100%; /* Optional: if you want the table to span the entire width of the page */
 }
 
-td, th {
-    padding: 5px; /* Adjust the padding for spacing within cells */
+/* Add a border to each table cell and header cell */
+th, td {
+    border: 1px solid #ddd; /* Adjust color and width as needed */
+    padding: 8px; /* Adjust padding as needed */
+    text-align: left; /* Optional: align text to the left */
+}
+
+/* Add horizontal lines between rows */
+tr {
+    border-bottom: 1px solid #ddd; /* Adjust color and width as needed */
+}
+
+/* Optional: Add zebra striping to rows */
+tr:nth-child(odd) {
+    background-color: #f9f9f9; /* Adjust color as needed */
 }
