@@ -91,3 +91,11 @@ firstp {
     margin-right: 30px;
 }
 
+table {
+    border-collapse: separate;
+    border-spacing: 10px 0; /* Adjust the 10px to increase or decrease spacing */
+}
+
+td, th {
+    padding: 5px; /* Adjust the padding for spacing within cells */
+}
