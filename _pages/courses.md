@@ -8,12 +8,12 @@ permalink: /courses
 
 ## CHE 597: Computational Optimization, Spring 2024
 
-**Instructor:** Can Li 
-**Email:** canli@purdue.edu
-**Classroom:** Hampton Hall of Civil Engineering, Room 2102
-**Time:** Tuesday and Thursday, 4:30 pm - 5:45 pm
-**Office:** Forney Hall of Chemical Engineering, Room G027A
-**Office Hours:** Thursday, 3:30 pm - 4:30 pm	
+**Instructor:** Can Li  
+**Email:** canli@purdue.edu  
+**Classroom:** Hampton Hall of Civil Engineering, Room 2102   
+**Time:** Tuesday and Thursday, 4:30 pm - 5:45 pm   
+**Office:** Forney Hall of Chemical Engineering, Room G027A   
+**Office Hours:** Thursday, 3:30 pm - 4:30 pm	  
 
 ---
 
