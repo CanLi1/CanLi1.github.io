@@ -26,7 +26,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 
 | Date    <br />    | Topic      <br />                                                                  | Slides  <br />    | Homework  <br />| Handouts |
 |--|----|--|--|--|
-| Tue Jan 9   | Introduction to Course                                                      |  |      |       <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201" target="_blank">Pyomo Tutorial</a>|
+| Tue Jan 9   | Introduction to Course                                                      |  |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%201" target="_blank">HW1</a>   |       <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201" target="_blank">Pyomo Tutorial</a>|
 | Thu Jan 11   | Convex sets, functions                                                      | |          |          |
 | Tue Jan 16   | Unconstrained optimization                                |  |          |          |
 | Thu Jan 18   | Linear Programming Applications                                                             | |          |          |
