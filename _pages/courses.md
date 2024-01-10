@@ -24,10 +24,10 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 
 ### Syllabus
 
-| Date    <br />    | Topic      <br />                                                                  | Slides  <br />    | Homework  <br />| Handouts |
-|--|----|--|--|--|
-| Tue Jan 9   | Introduction to Course                                                      |  |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%201" target="_blank">HW1</a>   |       <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201" target="_blank">Pyomo Tutorial</a>|
-| Thu Jan 11   | Convex sets, functions                                                      | |          |          |
+| Date    <br />    | Topic      <br />                                                                  | Slides  <br />    | Homework  <br />| Handouts |Video  <br />| 
+|--|----|--|--|--|--|
+| Tue Jan 9   | Introduction to Course                                                      | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201/Lecture_1_Intro_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201/Lecture_1_Intro_ipad.pdf" target="_blank">ipad</a> |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%201" target="_blank">HW1</a>   |       <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201" target="_blank">Pyomo Tutorial</a>| <a href="https://youtu.be/2b06DgHF68A" target="_blank">video</a>|
+| Thu Jan 11   | Convex sets, functions                                                      | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_slides.pdf" target="_blank">slides</a>|          |          |
 | Tue Jan 16   | Unconstrained optimization                                |  |          |          |
 | Thu Jan 18   | Linear Programming Applications                                                             | |          |          |
 | Tue Jan 23   | Polyhedron Theory                                |  |     |          |
