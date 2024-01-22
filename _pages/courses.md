@@ -31,7 +31,9 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Tue Jan 16   | Unconstrained optimization                                |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%203/Lecture_3_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%203/Lecture_3_ipad.pdf" target="_blank">ipad</a>|   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%202" target="_blank">HW2</a>       |          |<a href="https://youtu.be/iqzk82Sca5w?si=fCNoPbUbC7HKBsvQ" target="_blank">video</a>
 | Thu Jan 18   | Linear Programming Applications                                                             |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/eU3KEsjZopA" target="_blank">video</a>
 | Tue Jan 23   | Polyhedron Theory                                |  |     |          |
- | Thu Jan 25 |   Linear Programming Duality                                                     |  |          |          |
+ | Thu Jan 25 |    Simplex Algorithm                                                    |  |          |          |
+  | Thu Jan 30 |   Linear Programming Duality                                                  |  |          |          |
+| Thu Feb 1 |   Conic Programming                                                  |  |          |          |
 
 
 
