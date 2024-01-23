@@ -13,7 +13,9 @@ permalink: /courses
 **Classroom:** Hampton Hall of Civil Engineering, Room 2102   
 **Time:** Tuesday and Thursday, 4:30 pm - 5:45 pm   
 **Office:** Forney Hall of Chemical Engineering, Room G027A   
-**Office Hours:** Thursday, 3:30 pm - 4:30 pm	  
+**Office Hours:** Thursday, 3:30 pm - 4:30 pm   
+**Make-up lecture classroom** Max W and Maileen Brown Family Hall (BHEE) 234   
+**Make-up lecture time** Mondays, 4:30 pm - 5:45 pm
 
 ---
 
@@ -30,7 +32,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Thu Jan 11   | Convex sets, functions                                                      | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/SaSdryGlfbE?si=eElyZjqTOmz6hxeT" target="_blank">video</a>
 | Tue Jan 16   | Unconstrained optimization                                |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%203/Lecture_3_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%203/Lecture_3_ipad.pdf" target="_blank">ipad</a>|   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%202" target="_blank">HW2</a>       |          |<a href="https://youtu.be/iqzk82Sca5w?si=fCNoPbUbC7HKBsvQ" target="_blank">video</a>
 | Thu Jan 18   | Linear Programming Applications                                                             |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/eU3KEsjZopA" target="_blank">video</a>
-| Tue Jan 23   | Polyhedron Theory                                | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_ipad.pdf" target="_blank">ipad</a> |     |          |<a href="https://youtu.be/jJQ-5irjqlA" target="_blank">video</a>
+| Tue Jan 23   | Polyhedron Theory                                | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_ipad.pdf" target="_blank">ipad</a> |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%203" target="_blank">HW3</a>       |          |<a href="https://youtu.be/jJQ-5irjqlA" target="_blank">video</a>
  | Thu Jan 25 |    Simplex Algorithm                                                    |  |          |          |
   | Thu Jan 30 |   Linear Programming Duality                                                  |  |          |          |
 | Thu Feb 1 |   Conic Programming                                                  |  |          |          |
