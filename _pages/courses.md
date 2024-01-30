@@ -88,7 +88,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 This class will not exactly follow any textbook. But we may cover some of the content in the following textbooks.
 1. Grossmann, I. E. (2021). Advanced optimization for process systems engineering. Cambridge University Press.
 2. Wolsey, L. A. (2020). Integer programming. John Wiley & Sons.
-3. Bertsimas, D., & Tsitsiklis, J. N. (1997). Introduction to linear optimization (Vol. 6, pp. 479-530). Belmont, MA: Athena scientific.
+3. Bertsimas, D., & Tsitsiklis, J. N. (1997). Introduction to linear optimization. Belmont, MA: Athena scientific.
 4. Ben-Tal, A., & Nemirovski, A. (2001). Lectures on modern convex optimization: analysis, algorithms, and engineering applications. Society for industrial and applied mathematics.
 5. Conforti, M., Cornuéjols, G., Zambelli, G (2014). Integer programming. Graduate Texts in Mathematics
 6. Boyd, S. P., & Vandenberghe, L. (2004). Convex optimization. Cambridge university press.
