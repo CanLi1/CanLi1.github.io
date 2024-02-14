@@ -15,7 +15,7 @@ permalink: /courses
 **Office:** Forney Hall of Chemical Engineering, Room G027A   
 **Office Hours:** Thursday, 3:30 pm - 4:30 pm   
 **Make-up lecture classroom** Max W and Maileen Brown Family Hall (BHEE) 234   
-**Make-up lecture time** Mondays, 4:30 pm - 5:45 pm
+**Make-up lecture time** Wednesday, 4:30 pm - 5:45 pm
 
 ---
 
@@ -38,6 +38,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Thu Feb 1 |   Conic Programming                                                  | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%208/Lecture_8_Conic_Programming_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%208/Lecture_8_Conic_Programming_ipad.pdf" target="_blank">ipad</a>  |          |     <a href="https://plato.asu.edu/bench.html">Mittelmann benchmark</a>     |<a href="https://youtu.be/9qJcTVKS5wU" target="_blank">video</a>
 | Thu Feb 6 |   Langrangian Dual and Optimality Conditions                                                  |<a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%209/Lecture_9_Langrangian_Dual_and_Optimality_Conditions_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%209/Lecture_9_Langrangian_Dual_and_Optimality_Conditions_ipad.pdf" target="_blank">ipad</a> |          |          |<a href="https://youtu.be/yOT0b_csFEk?si=Z4MbEo9SqKYr71_i" target="_blank">video</a>
 | Thu Feb 8 |   Nonlinear Programming Algorithms                                                  | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2010/Lecture_10_Nonlinear_Programming_Algorithms_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2010/Lecture_10_Nonlinear_Programming_Algorithms_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/baPMCWMygBE" target="_blank">video</a>
+| Thu Feb 13 |   Modeling of Discrete and Continuous Decisions                                                  | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2011/Lecture_11_Modeling_of_Discrete_and_Continuous_Decisions_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2011/Lecture_11_Modeling_of_Discrete_and_Continuous_Decisions_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/LX8YrhlpU0E" target="_blank">video</a>
 
 
 ### Topics Covered (tentative)
