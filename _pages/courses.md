@@ -15,13 +15,9 @@ permalink: /courses
 **Office:** Forney Hall of Chemical Engineering, Room G027A   
 **Office Hours:** Thursday, 3:30 pm - 4:30 pm   
 **Make-up lecture classroom** Max W and Maileen Brown Family Hall (BHEE) 234   
-<<<<<<< HEAD
-**Make-up lecture time** Mondays, 4:30 pm - 5:45 pm
-=======
 **Make-up lecture time** Wednesday, 4:30 pm - 5:45 pm
->>>>>>> parent of edfe0ab (Update courses.md)
 
----
+
 
 ### Course Description:
 This is a graduate-level introductory course to mathematical optimization. We will cover the theory and algorithms of linear programming, mixed-integer linear/nonlinear programming, conic programming, global optimization of nonconvex problems, and decomposition algorithms for mixed-integer programs. Special focus will be given to using the APIs of modern computational software including CPLEX, Gurobi, Mosek, Pytorch with implementations in Python. We will motivate the algorithms using modern applications in chemical engineering, transportation, energy systems, machine learning, and control.
