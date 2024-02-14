@@ -15,7 +15,11 @@ permalink: /courses
 **Office:** Forney Hall of Chemical Engineering, Room G027A   
 **Office Hours:** Thursday, 3:30 pm - 4:30 pm   
 **Make-up lecture classroom** Max W and Maileen Brown Family Hall (BHEE) 234   
+<<<<<<< HEAD
 **Make-up lecture time** Mondays, 4:30 pm - 5:45 pm
+=======
+**Make-up lecture time** Wednesday, 4:30 pm - 5:45 pm
+>>>>>>> parent of edfe0ab (Update courses.md)
 
 ---
 
