@@ -182,7 +182,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/null.png" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Abdullah.jpg" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
