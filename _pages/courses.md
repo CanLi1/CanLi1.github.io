@@ -97,6 +97,8 @@ This class will not exactly follow any textbook. But we may cover some of the co
 4. Ben-Tal, A., & Nemirovski, A. (2001). Lectures on modern convex optimization: analysis, algorithms, and engineering applications. Society for industrial and applied mathematics.
 5. Conforti, M., Cornuéjols, G., Zambelli, G (2014). Integer programming. Graduate Texts in Mathematics
 6. Boyd, S. P., & Vandenberghe, L. (2004). Convex optimization. Cambridge university press.
+7. Tawarmalani, M., & Sahinidis, N. V. (2013). Convexification and global optimization in continuous and mixed-integer nonlinear programming: theory, algorithms, software, and applications (Vol. 65). Springer Science & Business Media.
+8. Horst, R., & Tuy, H. (2013). Global optimization: Deterministic approaches. Springer Science & Business Media.
 
 ### Software
 We will use the following software 
