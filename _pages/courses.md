@@ -43,51 +43,8 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Tue Feb 20 |   Mixed-Integer Linear Programming Applications                                                  | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2013/Lecture_13_Mixed_Integer_Linear_Programming_Applications_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2013/Lecture_13_Mixed_Integer_Linear_Programming_Applications_ipad.pdf" target="_blank">ipad</a>|      <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%207" target="_blank">HW7</a>       |          |<a href="https://youtu.be/7sJhUDWbO3I" target="_blank">video</a>
 | Thu Feb 22 |   Branch and Bound                                                  | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2014/Lecture_14_Branch_and_Bound_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2014/Lecture_14_Branch_and_Bound_ipad.pdf" target="_blank">ipad</a>|           |          |
 | Tue Feb 27 |   Cutting Planes                                                 | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2015/Lecture_15_Cutting_Planes_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2015/Lecture_15_Cutting_Planes_ipad.pdf" target="_blank">ipad</a>|           |          |
+| Thu Feb 29 |   Midterm Review                                                 | |           |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Practice%20Exam%201/Practice_Exam_1_ChE_597_2024_Spring_solution.pdf" target="_blank">practice exam solution</a>        |<a href="https://youtu.be/QuLwh1qHrKo" target="_blank">video</a>
 
-### Topics Covered (tentative)
-#### Optimization basics
-- Convex sets, functions
-- Unconstrained optimization, gradient descent, Newton's method
-- Simple applications of optimization models
-- Modeling using pyomo
-
-#### Linear and conic programming
-- Applications
-- Basics of polyhedral theory, LP duality
-- Second-order cone programming (SOCP)
-- Semidefinite programming (SDP), Goemans-Williamson
-
-#### Nonlinear programming
-- Applications
-- Optimality conditions
-- Barrier algorithm, interior point algorithm
-
-#### (Mixed)-integer linear programming
-- Modeling of discrete and continuous decisions
-- Propositional logic, modeling of disjunctions
-- Applications
-- Branch and bound
-- Cutting planes
-- Disjunctive programming
-
-
-#### Global optimization of nonconvex problems
-- Applications
-- Convex relaxations, McCormick Inequality
-- Spatial branch and bound
-- Mixed-integer nonlinear programming
-
-#### Decomposition algorithms
-- Benders decomposition, stochastic programming
-- Dantzig Wolfe decomposition, column generation, vehicle routing problems
-- Lagrangian decomposition
-- ADMM 
-
-#### Advanced topics on computation
-- Numerical linear algebra
-- Advanced solver callbacks
-- Parallel computing
-- GPU computing
 
 ### Recommended Textbooks:
 This class will not exactly follow any textbook. But we may cover some of the content in the following textbooks.
@@ -98,7 +55,7 @@ This class will not exactly follow any textbook. But we may cover some of the co
 5. Conforti, M., Cornuéjols, G., Zambelli, G (2014). Integer programming. Graduate Texts in Mathematics
 6. Boyd, S. P., & Vandenberghe, L. (2004). Convex optimization. Cambridge university press.
 7. Tawarmalani, M., & Sahinidis, N. V. (2013). Convexification and global optimization in continuous and mixed-integer nonlinear programming: theory, algorithms, software, and applications (Vol. 65). Springer Science & Business Media.
-8. Horst, R., & Tuy, H. (2013). Global optimization: Deterministic approaches. Springer Science & Business Media.
+8. Horst, R., & Tuy, H. (2013). Global optimization: Deterministic approaches. Springer Science & Business Media.`
 
 ### Software
 We will use the following software 
