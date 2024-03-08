@@ -44,6 +44,7 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Thu Feb 22 |   Branch and Bound                                                  | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2014/Lecture_14_Branch_and_Bound_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2014/Lecture_14_Branch_and_Bound_ipad.pdf" target="_blank">ipad</a>|           |          |
 | Tue Feb 27 |   Cutting Planes                                                 | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2015/Lecture_15_Cutting_Planes_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2015/Lecture_15_Cutting_Planes_ipad.pdf" target="_blank">ipad</a>|           |          |
 | Thu Feb 29 |   Midterm Review                                                 | |           |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Practice%20Exam%201/Practice_Exam_1_ChE_597_2024_Spring_solution.pdf" target="_blank">practice exam solution</a>        |<a href="https://youtu.be/QuLwh1qHrKo" target="_blank">video</a>
+| Thu Mar 7 |   Nonconvex Optimization Applications                                                |<a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2016/Lecture_16_Nonconvex_Optimization_Applications_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2016/Lecture_16_Nonconvex_Optimization_Applications_ipad.pdf" target="_blank">ipad</a> |           |         |<a href="https://youtu.be/nZwqSckzNP8" target="_blank">video</a>
 
 
 ### Recommended Textbooks:
@@ -55,7 +56,7 @@ This class will not exactly follow any textbook. But we may cover some of the co
 5. Conforti, M., Cornuéjols, G., Zambelli, G (2014). Integer programming. Graduate Texts in Mathematics
 6. Boyd, S. P., & Vandenberghe, L. (2004). Convex optimization. Cambridge university press.
 7. Tawarmalani, M., & Sahinidis, N. V. (2013). Convexification and global optimization in continuous and mixed-integer nonlinear programming: theory, algorithms, software, and applications (Vol. 65). Springer Science & Business Media.
-8. Horst, R., & Tuy, H. (2013). Global optimization: Deterministic approaches. Springer Science & Business Media.`
+8. Horst, R., & Tuy, H. (2013). Global optimization: Deterministic approaches. Springer Science & Business Media.
 
 ### Software
 We will use the following software 
