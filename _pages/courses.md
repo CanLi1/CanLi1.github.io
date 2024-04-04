@@ -55,8 +55,8 @@ The course lectures will be 30% proofs, 50% algorithms and computation, and 20% 
 | Thu Apr 11 |         Augmented Lagrangian and ADMM                                          | <a href="" target="_blank">slides</a>  <a href="" target="_blank">ipad</a> |        |        |<a href="" target="_blank">video</a>
 | Tue Apr 16 |      Bilevel Optimization                                             | <a href="" target="_blank">slides</a>  <a href="" target="_blank">ipad</a> |        |        |<a href="" target="_blank">video</a>
 | Thu Apr 18 |      Solver Callbacks                                             | <a href="" target="_blank">slides</a>  <a href="" target="_blank">ipad</a> |        |        |<a href="" target="_blank">video</a>
-| Tue Apr 23 |        Final Review                                           | <a href="" target="_blank">slides</a>  <a href="" target="_blank">ipad</a> |        |        |<a href="" target="_blank">video</a>
-| Thu Apr 25 |                                                   | <a href="" target="_blank">slides</a>  <a href="" target="_blank">ipad</a> |        |        |<a href="" target="_blank">video</a>
+| Tue Apr 23 |         Project Consulting                                         |  |        |        |
+| Thu Apr 25 |  Final Review                                                  | <a href="" target="_blank">slides</a>  <a href="" target="_blank">ipad</a> |        |        |<a href="" target="_blank">video</a>
 
 ### Recommended Textbooks:
 This class will not exactly follow any textbook. But we may cover some of the content in the following textbooks.
@@ -98,21 +98,6 @@ Some familiarity with linear algebra, calculus, and programming in python is req
 </head>
 <body>
 
-<div id="last-updated">Last updated: </div>
-
-<script>
-// Function to format the date as "Month day, Year"
-function formatDate(date) {
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
-    return date.toLocaleDateString('en-US', options);
-}
-
-// Get the current date
-const today = new Date();
-
-// Update the content of the 'last-updated' div with the current date
-document.getElementById('last-updated').textContent += formatDate(today);
-</script>
 
 </body>
 </html>
