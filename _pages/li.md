@@ -46,7 +46,7 @@ permalink: /li/
 <li>ACS Sustainable Chemistry & Engineering</li>
 <li>Transportation Research Part E</li>
 <li>Networks and Spatial Economics</li>
-   
+</ul>    
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
 <li>Ralph W. and Grace M. Showalter Research Trust Grant, 2024</li>
