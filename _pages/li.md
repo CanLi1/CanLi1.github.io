@@ -21,14 +21,14 @@ permalink: /li/
 <div class="col-sm-9">
 
   <h3>Can Li</h3>
-   <i> Assistant professor, starting June 2022</i>
+   <i> Assistant professor</i>
    <h4>Education</h4>
    <ul style="overflow: hidden">
    <li>B.Eng., Tsinghua University, 2016</li>
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
 </ul>
-<h4>Research Expertise</h4> Stochastic Programming; Mixed-Integer Programming; Energy Systems <br />
+<h4>Research Expertise</h4> Stochastic Programming; Mixed-Integer Programming; Machine Learning; Energy Systems <br />
 <h4>Research Affiliation</h4> <a href="https://cistar.us/about-cistar"  target="_blank"> CISTAR</a>; <a href="https://engineering.purdue.edu/ICON"  target="_blank"> ICON</a> <br />
 
  <h4>Review Service</h4>
@@ -46,25 +46,14 @@ permalink: /li/
 <li>ACS Sustainable Chemistry & Engineering</li>
 <li>Transportation Research Part E</li>
 <li>Networks and Spatial Economics</li>
- 
-</ul> 
-  <h4>Conference Organization</h4>
-   <ul style="overflow: hidden">
-   <li>Session Chair, INFORMS Annual Meeting, 2021</li>
-   <li>Cluster Chair, INFORMS Annual Meeting, 2020</li>
- <li>Session Chair, INFORMS Annual Meeting, 2020</li>
- <li>Session Chair, XV ICSP conference, Trondheim, 2019</li>
-</ul>  
+   
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
+<li>Ralph W. and Grace M. Showalter Research Trust Grant, 2024</li>
+<li>ACS PRF Doctoral New Investigator Award, 2024</li>
+<li>Amazon Research Award, 2023</li>
+<li>Winner of Air Liquide Scientific Challenge, 2023</li>
 <li>CAST Division Student Presentation Award, 3rd place, 2021</li>
-   <li>Honorable mention award, 42nd Annual CHEGSA Symposium, Carnegie Mellon University, 2020</li>
- <li>Best Poster Award, Center for Advanced Process Decision-making (CAPD) annual meeting, 2018</li>
- <li>Jinyong Award, Department of Chemical Engineering, Tsinghua University, 2015</li>
-    <li>CSC Scholarship, Exchange Student at UW-Madison, 2014</li>
- <li>Member, Spark Talents Program for Technological Innovation, Tsinghua University, 2014</li>
- <li>Comprehensive Excellent Scholarship (3/116 in Department of Chemical Engineering), Tsinghua University, 2013</li>
- <li>First Prize (1st of Henan Province, China), National Olympiad in Chemistry, 2011</li>
 </ul> 
 </div>  </div>  
  
