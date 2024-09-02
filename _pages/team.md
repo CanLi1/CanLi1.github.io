@@ -147,7 +147,7 @@ permalink: /team/
 
   <h4>Sai Madhukiran Kompalli</h4>
    <i> Joined the group in Fall 2023</i><br>
-   <i> M.S, Chemical Engineering, Carnegie Mellon University, 2022</i><br>
+   <i> M.S., Chemical Engineering, Carnegie Mellon University, 2022</i><br>
     <i> M.Tech., Chemical Engineering, Indian Institute of Technology Guwahati, 2021</i><br>
    <i> B.Tech., Chemical Engineering, Osmania University, 2020</i>
   <p> <strong> Research topic:</strong> explaining optimization and machine learning models using LLM</p> 
@@ -160,6 +160,27 @@ permalink: /team/
 </div>  </div>
 
 ## Master Students
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Rahul.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Rahul Nahar</h4>
+   <i> Joined the group in Spring 2022</i><br>
+   <i> M.S., Computer Science, Purdue University, Present</i><br>
+   <i> B.S., University of Wollongong, 2022 </i>
+  <p> <strong> Research topic:</strong> explainable AI using LLMs for fault detection </p> 
+  <p>email:
+ <a href="mailto:rnahar@purdue.edu">rnahar@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+
+
 <div class="row">
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ipsit.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
@@ -196,6 +217,46 @@ permalink: /team/
  </p> 
  <p>
  <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Adam.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Adam Elyoumi</h4>
+   <i> Joined the group in Spring 2024</i><br>
+   <i> M.S., Applied Mathematics, Ecole Centrale de Nantes (France), </i>
+  <p> <strong> Research topic:</strong> reinforcement learning for the Blending problem </p> 
+  <p>email:
+ <a href="mailto:aelyoumi@purdue.edu">aelyoumi@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/adam-el-youmi-a69338178/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Ashley.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Adam Elyoumi</h4>
+   <i> Joined the group in Spring 2024</i><br>
+   <i> B.S., Purdue University, 2023 </i>
+  <p> <strong> Research topic:</strong> AI/ML for single cell RNA analysis </p> 
+  <p>email:
+ <a href="mailto:varghes8@purdue.edu">aelyoumi@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/ashley-j-varghese-2508/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p>
 </div>  </div> 
 
