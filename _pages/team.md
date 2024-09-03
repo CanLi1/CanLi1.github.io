@@ -229,7 +229,7 @@ permalink: /team/
 
   <h4>Adam Elyoumi</h4>
    <i> Joined the group in Spring 2024</i><br>
-   <i> M.S., Applied Mathematics, Ecole Centrale de Nantes (France), </i>
+   <i> M.S., Applied Mathematics, Ecole Centrale de Nantes (France), 2022</i>
   <p> <strong> Research topic:</strong> reinforcement learning for the Blending problem </p> 
   <p>email:
  <a href="mailto:aelyoumi@purdue.edu">aelyoumi@purdue.edu</a>
