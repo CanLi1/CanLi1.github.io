@@ -169,8 +169,7 @@ permalink: /team/
 
   <h4>Rahul Nahar</h4>
    <i> Joined the group in Spring 2022</i><br>
-   <i> M.S., Computer Science, Purdue University, Present</i><br>
-   <i> B.S., University of Wollongong, 2022 </i>
+   <i> B.S., Computer Science, University of Wollongong, 2022 </i>
   <p> <strong> Research topic:</strong> explainable AI using LLMs for fault detection </p> 
   <p>email:
  <a href="mailto:rnahar@purdue.edu">rnahar@purdue.edu</a>
@@ -248,12 +247,12 @@ permalink: /team/
 </div>
 <div class="col-sm-9">
 
-  <h4>Adam Elyoumi</h4>
+  <h4>Ashley Jojan Varghese</h4>
    <i> Joined the group in Spring 2024</i><br>
-   <i> B.S., Purdue University, 2023 </i>
+   <i> B.S., Computer Science, Purdue University, 2023 </i>
   <p> <strong> Research topic:</strong> AI/ML for single cell RNA analysis </p> 
   <p>email:
- <a href="mailto:varghes8@purdue.edu">aelyoumi@purdue.edu</a>
+ <a href="mailto:varghes8@purdue.edu">varghes8@purdue.edu</a>
  </p> 
  <p>
  <a href="https://www.linkedin.com/in/ashley-j-varghese-2508/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
