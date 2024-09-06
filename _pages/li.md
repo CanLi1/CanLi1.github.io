@@ -28,25 +28,10 @@ permalink: /li/
  <li>Ph.D., Carnegie Mellon University, with <a href="http://egon.cheme.cmu.edu/" target="_blank">Ignacio E. Grossmann</a>, 2021</li>
  <li>Postdoctoral Fellow, Polytechnique Montréal, with <a href="https://www.gerad.ca/en/people/andrea-lodi" target="_blank">Andrea Lodi</a>, 2022</li>
 </ul>
-<h4>Research Expertise</h4> Stochastic Programming; Mixed-Integer Programming; Machine Learning; Energy Systems <br />
-<h4>Research Affiliation</h4> <a href="https://cistar.us/about-cistar"  target="_blank"> CISTAR</a>; <a href="https://engineering.purdue.edu/ICON"  target="_blank"> ICON</a> <br />
+<h4>Research Expertise</h4> Optimization; Machine Learning; Process Systems Engineering <br />
+<h4>Research Affiliation</h4> <a href="https://cistar.us/about-cistar"  target="_blank"> CISTAR</a>; <a href="https://engineering.purdue.edu/ICON"  target="_blank"> ICON</a>;<a href="https://engineering.purdue.edu/COOPS"  target="_blank"> COOPS</a>  <br />
 
- <h4>Review Service</h4>
- <ul style="overflow: hidden">
-   <li>Optimization and Engineering</li>
- <li>Computers & Chemical Engineering</li>
- <li>Journal of Global Optimization</li>
- <li> SIAM Journal on Optimization </li>
-    <li>Mathematical Programming</li>
- <li>International Journal of Electrical Power and Energy Systems</li>
- <li>Computers and Electrical Engineering </li>
- <li>SN Operations Research Forum</li>
-<li>AIChE Journal</li>
-<li>IEEE Transactions on Control Systems Technology</li>
-<li>ACS Sustainable Chemistry & Engineering</li>
-<li>Transportation Research Part E</li>
-<li>Networks and Spatial Economics</li>
-</ul>    
+   
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
 <li>Ralph W. and Grace M. Showalter Research Trust Grant, 2024</li>
