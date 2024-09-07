@@ -8,19 +8,19 @@ permalink: /pictures/
 
 ## 2024 Fall
 <div class="row">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Fall.jpg" class="img-responsive" style="display: block; margin: auto; width: 50%; height: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Fall.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
 </div>
 
 ## 2024 Summer
 <div class="row">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Summer1.jpg" class="img-responsive" style="display: block; margin: auto; width: 50%; height: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Summer1.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Summer2.jpg" class="img-responsive" style="display: block; margin: auto; width: 50%; height: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Summer2.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
 </div>
 
 ## 2023 Summer
 <div class="row">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2023Summer.jpg" class="img-responsive" style="display: block; margin: auto; width: 50%; height: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2023Summer.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
 </div>
 
 
