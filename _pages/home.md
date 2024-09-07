@@ -6,11 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Davidson School of Chemical Engineering](https://engineering.purdue.edu/ChE) of [Purdue University](https://www.purdue.edu/). Our aim is to develop theory, algorithms, models, and software for large-scale optimization problems with applications in sustainable energy systems.
+We are a research group at the [Davidson School of Chemical Engineering](https://engineering.purdue.edu/ChE) of [Purdue University](https://www.purdue.edu/). Our aim is to develop theory, algorithms, models, and software for large-scale optimization and machine learning with applications in sustainable energy and biological systems.
 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/purdue.jpeg" alt="Slide 1" width="85%" style="display:block; margin-left: auto; margin-right: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Pu_2024.jpg" alt="Slide 1" width="85%" style="display:block; margin-left: auto; margin-right: auto;" />
 
 
 
