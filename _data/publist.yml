@@ -45,7 +45,6 @@
   preprint: 2021EJOR.pdf
   slides: 2021EJOR.pdf
   bibtex: 2021EJOR.bib
-  highlight: 1
 
 - title: "On representative day selection for capacity expansion planning of power systems under extreme operating conditions"
   image: 2021Energy.png
@@ -54,7 +53,6 @@
   journal: International Journal of Electrical Power & Energy Systems
   year: (2021)
   preprint: 2021Energy.pdf
-  highlight: 1
   paper: https://www.sciencedirect.com/science/article/pii/S0142061521009248
   slides: Energy2021.pdf
   bibtex: 2021energy.bib
@@ -112,7 +110,6 @@
   bibtex: 2020AICHEJ.bib
   slides: 2020AICHEJ.pdf
   preprint: 2020AICHEJ.pdf
-  highlight: 1
 
 - title: "A generalized Benders decomposition-based branch and cut algorithm for two-stage stochastic programs with nonconvex constraints and mixed-binary first and second stage variables"
   image: 2019JOGO.png
@@ -124,7 +121,6 @@
   preprint: 2019JOGO.pdf
   bibtex: 2019JOGO.bib
   slides: 2019JOGO.pdf
-  highlight: 1
 
 - title: "A finite ϵ-convergence algorithm for two-stage stochastic convex nonlinear programs with mixed-binary first and second-stage variables"
   authors: Li, C., & Grossmann, I. E.
