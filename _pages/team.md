@@ -186,46 +186,6 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ipsit.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Krishna Sri Ipsit Mantri</h4>
-   <i> Joined the group in Fall 2023</i><br>
-   <i> B.Tech., Electrical Engineering, Indian Institute of Technology Bombay, 2022</i>
-  <p> <strong> Research topic:</strong> explaining optimization models using LLM </p> 
-  <p>email:
- <a href="mailto:mantrik@purdue.edu">mantrik@purdue.edu</a>
- </p> 
- <p>
- <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
-
-
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Abdullah.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Abdullah Khan</h4>
-   <i> Joined the group in Fall 2023</i><br>
-   <i> B.Tech., Computer Science, Indian Institute of Technology Palakkad, 2022</i>
-  <p> <strong> Research topic:</strong> explaining machine learning models using LLM </p> 
-  <p>email:
- <a href="mailto:khan440@purdue.edu">khan440@purdue.edu</a>
- </p> 
- <p>
- <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
-
-
-<div class="row">
-<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Adam.jpg" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
@@ -292,13 +252,13 @@ permalink: /team/
 </p>
 
 <p>
-  Krishna Sri Ipsit Mantri (Master Student, 2023-2024): Master Student, Purdue University
-  <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+  Abdullah Khan (Master Student, 2023-2024): Software Engineer, Cisco
+  <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  Abdullah Khan (Master Student, 2023-2024): Software Engineer, Cisco
-  <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+  Krishna Sri Ipsit Mantri (Master Student, 2023-2024): Master Student, Purdue University
+  <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 <br>
 
