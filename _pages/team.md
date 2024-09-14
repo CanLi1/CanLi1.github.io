@@ -260,7 +260,44 @@ permalink: /team/
 </div>  </div> 
 
 
- <br>
+## Visiting Scholars
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/null.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Chun-Cheng Chang</h4>
+   <i> Joined the group in Fall 2024</i><br>
+   <i> CSC</i>
+  <p>email:
+ <a href="mailto:chan1110@purdue.edu">chan1110@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div> 
+ 
+ <hr>
+
+## Alumni
+<p>
+  Chi Zhang (Postdoc, 2022-2023): Postdoc, University of Central Florida
+  <a href="https://www.linkedin.com/in/chi-zhang-ba833a272" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Krishna Sri Ipsit Mantri (Master Student, 2023-2024): Master Student, Purdue University
+  <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Abdullah Khan (Master Student, 2023-2024): Software Engineer, Cisco
+  <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+<br>
+
 
 [//]: # (## Undergraduate Researchers)
 
