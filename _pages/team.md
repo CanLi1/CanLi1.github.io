@@ -112,8 +112,12 @@ permalink: /team/
   <p>email:
  <a href="mailto:chen4433@purdue.edu">chen4433@purdue.edu</a>
  </p> 
+  <p>
+ <a href="https://geraltshen.github.io/Gin-Hao-Chen/">personal website</a>
+ </p> 
  <p>
  <a href="https://www.linkedin.com/in/hao-chen-369a43197" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://scholar.google.com/citations?hl=en&user=Cck9C74AAAAJ" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
  </p>
 </div>  </div> 
 
@@ -263,7 +267,7 @@ permalink: /team/
 ## Visiting Scholars
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/null.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ChunCheng.JPG" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
@@ -274,9 +278,9 @@ permalink: /team/
   <p>email:
  <a href="mailto:chan1110@purdue.edu">chan1110@purdue.edu</a>
  </p> 
- <p>
+ <!-- <p>
  <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
+ </p> -->
 </div>  </div> 
  
  <hr>

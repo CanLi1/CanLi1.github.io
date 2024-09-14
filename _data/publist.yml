@@ -1,15 +1,39 @@
-- title: " Diagnosing Infeasible Optimization Problems Using Large Language Models"
+- title: "Physics-informed neural networks with hard linear equality constraints"
+  image: 2024CACE.png
+  description:  Physics-informed neural network (PINN) leverages known physical constraints present in the data, but it cannot strictly satisfy them in the predictions. We propose an architecture to rigorously guarantee hard linear equality constraints through projection layers derived from KKT conditions. 
+  authors: Chen, H., Constante-Flores, G., & Li, C.
+  journal:  'Computers & Chemical Engineering'
+  year: (2024)
+  paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820
+  bibtex: 2024CACE.bib
+  highlight: 1
+
+- title: "Diagnosing Infeasible Optimization Problems Using Large Language Models"
   image: 2023OptiChat.png
   description: One of the primary barriers to deploying optimization or machine learning models in practice is the challenge of helping practitioners understand and interpret such models. We propose a first-of-its-kind system that enables natural language-based diagnosis and troubleshooting for infeasible optimization models using LLM. 
   authors: Chen, H., Constante-Flores, G., & Li, C.
-  journal:  arXiv preprint
-  year: (2023)
-  paper: https://arxiv.org/abs/2308.12923
+  journal:  'INFOR: Information Systems and Operational Research'
+  year: (2024)
+  paper: https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2385189
   preprint: 2023ARXIV.pdf
-  bibtex: 2023ARXIV.bib
+  bibtex: 2024INFOR.bib
   highlight: 1
 
-- title: " Distributed manufacturing for electrified chemical processes in a microgrid"
+- title: "PAMSO: Parametric Autotuning Multi-time Scale Optimization Algorithm"
+  authors: Ramanujam, A. & Li, C.
+  journal:  ARXIV
+  year: (2024)
+  paper: https://arxiv.org/abs/2407.16570
+  bibtex: 2024PASMO.bib
+
+- title: "Solution polishing via path relinking for continuous black-box optimization"
+  authors: Papageorgiou, D.J., Kronqvist, J., Ramanujam, A., Kor, J., Kim, Y., Li, C.
+  journal:  Optimization Letters
+  year: (2024)
+  paper: https://link.springer.com/article/10.1007/s11590-024-02127-8#citeas
+  bibtex: 2024OL.bib
+
+- title: "Distributed manufacturing for electrified chemical processes in a microgrid"
   image: 2023Microgrid.png
   description: Electrification is a potential solution to alleviate the greenhouse gas emissions of chemical industries. However, spatial and temporal variations complicate the adoption of renewable energy. We propose a multi-scale MILP model for locating modular electrified plants, renewable-based generating units, and power lines in a microgrid.
   authors: Ramanujam, A., Constante-Flores, G., & Li, C.
@@ -20,7 +44,7 @@
   bibtex: 2023AICHE.bib
   highlight: 1
 
-- title: " Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization"
+- title: "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization"
   authors: Cho, S., Li, C., & Grossmann, I. E.
   journal:  Computers & Chemical Engineering, 107924.
   year: (2022)
