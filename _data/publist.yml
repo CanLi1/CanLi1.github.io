@@ -5,7 +5,7 @@
   journal:  'Computers & Chemical Engineering'
   year: (2024)
   paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820
-  bibtex: 2024CACE.bib
+  bibtex: 2024CACE2.bib
   highlight: 1
 
 - title: "Diagnosing Infeasible Optimization Problems Using Large Language Models"
@@ -69,6 +69,7 @@
   preprint: 2021EJOR.pdf
   slides: 2021EJOR.pdf
   bibtex: 2021EJOR.bib
+  higlight: 1
 
 - title: "On representative day selection for capacity expansion planning of power systems under extreme operating conditions"
   image: 2021Energy.png
