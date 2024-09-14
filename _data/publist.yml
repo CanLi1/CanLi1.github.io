@@ -1,11 +1,11 @@
 - title: "Physics-informed neural networks with hard linear equality constraints"
-  image: 2024CACE.png
+  image: 2024CACE2.png
   description:  Physics-informed neural network (PINN) leverages known physical constraints present in the data, but it cannot strictly satisfy them in the predictions. We propose an architecture to rigorously guarantee hard linear equality constraints through projection layers derived from KKT conditions. 
   authors: Chen, H., Constante-Flores, G., & Li, C.
   journal:  'Computers & Chemical Engineering'
   year: (2024)
   paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820
-  bibtex: 2024CACE2.bib
+  bibtex: 2024CACE.bib
   highlight: 1
 
 - title: "Diagnosing Infeasible Optimization Problems Using Large Language Models"
