@@ -14,9 +14,7 @@ permalink: /vacancies
 If you are interested in working with us as a PhD student, consider applying <a href="https://engineering.purdue.edu/ChE/academics/graduate/how-to-apply" target="_blank">here</a>. Ideal candidates should have a strong background in mathematics and coding. Students with a major in  Chemical Engineering, Industrial Engineering, Electrical Engineering, Automation Engineering, Systems Engineering, Computer Science or Applied Mathematics are preferred. The admission is conducted by the graduate recruiting committee. Individual faculty members do not have the authority to admit students.
 
 ### Applications for Postdoc positions
-We are actively looking for Postdocs. If you are interested, please send me an [email](mailto:canli@purdue.edu). State briefly why you are interested and attach a CV and 1-3 representative publications. Reference letters are not required at the beginning but may be requested at a later stage. 
-
-We are also looking for strong candidates for the <a href="https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#about"> Lillian Gilbreth Postdoctoral Fellowships </a>. The application window is typically in the fall (July - October). If you are interested, please send me an email.
+We currently do not have funding for Postdoc positions. However, Purdue University offers several postdoctoral fellowships. We are looking for strong candidates for the <a href="https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#about"> Lillian Gilbreth Postdoctoral Fellowships </a>. The application window is typically in the fall (July - October). If you are interested, please send me an email.
 
 ### Computer Science M.S. students applying for RA positions
 We have RA positions for Computer Science M.S. students from time to time. We are always looking for volunteers to help with our research projects on LLM, RL, and optimization. If you are interested, please send me an email.

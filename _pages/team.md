@@ -112,10 +112,8 @@ permalink: /team/
   <p>email:
  <a href="mailto:chen4433@purdue.edu">chen4433@purdue.edu</a>
  </p> 
-  <p>
- <a href="https://geraltshen.github.io/Gin-Hao-Chen/">personal website</a>
- </p> 
  <p>
+ <a href="https://geraltshen.github.io/Gin-Hao-Chen/" target="_blank" class="icon"><i class="fas fa-globe fa-2x"></i></a>
  <a href="https://www.linkedin.com/in/hao-chen-369a43197" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  <a href="https://scholar.google.com/citations?hl=en&user=Cck9C74AAAAJ" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
  </p>
@@ -172,7 +170,7 @@ permalink: /team/
 <div class="col-sm-9">
 
   <h4>Rahul Nahar</h4>
-   <i> Joined the group in Spring 2022</i><br>
+   <i> Joined the group in Spring 2024</i><br>
    <i> B.S., Computer Science, University of Wollongong, 2022 </i>
   <p> <strong> Research topic:</strong> explainable AI using LLMs for fault detection </p> 
   <p>email:
