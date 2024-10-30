@@ -18,7 +18,7 @@ We are a research group at the [Davidson School of Chemical Engineering](https:/
 
  **We are currently looking for passionate new PhD students, Postdocs, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-**We are proud to be part of Professor Ignacio Grossmann's academic family tree**! [**academic family tree**]({{ site.url }}{{ site.baseurl }}/images/slides/GrossmannFamilyTree.pdf){:target="_blank"}
+**We are proud to be part of Professor Ignacio Grossmann's [**academic family tree**]({{ site.url }}{{ site.baseurl }}/images/slides/GrossmannFamilyTree.pdf){:target="_blank"}
 
 
 
