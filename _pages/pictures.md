@@ -6,6 +6,19 @@ permalink: /pictures/
 ---
 # Gallery
 
+## 2024 Winter
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Winter.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
+</div>
+
+## 2024 INFORMS and AIChE Annual Meeting
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024INFORMS.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
+</div>
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024AIChE.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
+</div>
+
 ## 2024 Fall
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Fall.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
