@@ -34,6 +34,7 @@ permalink: /li/
    
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
+<li>NSF CAREER Award, 2025</li>
 <li>Ralph W. and Grace M. Showalter Research Trust Grant, 2024</li>
 <li>ACS PRF Doctoral New Investigator Award, 2024</li>
 <li>Amazon Research Award, 2023</li>
