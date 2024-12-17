@@ -56,7 +56,7 @@ permalink: /team/
  </p>
 </div>  </div> 
 
-## PhDs
+## PhD Students
 <div class="row">
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Asha.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
@@ -161,7 +161,7 @@ permalink: /team/
  </p>
 </div>  </div>
 
-## Master Students
+## Master's Students
 <div class="row">
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Rahul.jpg" class="img-responsive" width="80%" style="float: left" /><br />
@@ -250,12 +250,12 @@ permalink: /team/
 </p>
 
 <p>
-  Abdullah Khan (Master Student, 2023-2024): Software Engineer, Cisco
+  Abdullah Khan (Master's Student, 2023-2024): Software Engineer, Cisco
   <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  Krishna Sri Ipsit Mantri (Master Student, 2023-2024): Master Student, Purdue University
+  Krishna Sri Ipsit Mantri (Master's Student, 2023-2024): Master Student, Purdue University
   <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 <br>
