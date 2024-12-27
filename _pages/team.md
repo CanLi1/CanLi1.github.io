@@ -161,6 +161,69 @@ permalink: /team/
  </p>
 </div>  </div>
 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/HsuanHan.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Hsuan-Han Chiu</h4>
+   <i> Joined the group in Fall 2024</i><br>
+   <i> M.S., Chemical Engineering, National Taiwan University of Science and Technology, 2023</i><br>
+   <i> B.S., Chemical Engineering, Chang Gung University, 2021</i>
+  <p> <strong> Research topic:</strong> analysis of single cell RNA datasets using LLMs</p> 
+  <p>email:
+ <a href="mailto:Chiu137@purdue.edu">Chiu137@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/hsuan-han-chiu-749794248/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://scholar.google.com/citations?user=OeQ4cqwAAAAJ&hl=zh-TW" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+ </p>
+</div>  </div>
+
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/shraman.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Shraman Pal</h4>
+   <i> Joined the group in Fall 2024</i><br>
+   <i> B.Tech. + M.Tech., Chemical Engineering, Indian Institute of Technology Kharagpur, 2024</i><br>
+  <p> <strong> Research topic:</strong> explainable and physics-informed machine learning for cell typing via a modern optimization lena</p> 
+  <p>email:
+ <a href="mailto:pal52@purdue.edu">pal52@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/shraman-pal-3180b2193/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
+
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/piyush.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Piyush Sharma</h4>
+   <i> Joined the group in Fall 2024</i><br>
+   <i> M.Tech., Chemical Engineering, Indian Institute of Science, 2023</i><br>
+   <i> B.Eng., Chemical Engineering, Birla Institute of Science & Technology, Pilani, 2020</i>
+  <p> <strong> Research topic:</strong> optimization methods to control multiple steady states for electrochemical production of net-zero fuels</p> 
+  <p>email:
+ <a href="mailto:sharm984@purdue.edu">sharm984@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/piyush-sharma-6ba352156/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
+
 ## Master's Students
 <div class="row">
 <div class="col-sm-3">
