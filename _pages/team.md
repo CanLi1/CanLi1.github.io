@@ -194,7 +194,7 @@ permalink: /team/
   <h4>Shraman Pal</h4>
    <i> Joined the group in Fall 2024</i><br>
    <i> B.Tech. + M.Tech., Chemical Engineering, Indian Institute of Technology Kharagpur, 2024</i><br>
-  <p> <strong> Research topic:</strong> explainable and physics-informed machine learning for cell typing via a modern optimization lena</p> 
+  <p> <strong> Research topic:</strong> explainable and physics-informed machine learning</p> 
   <p>email:
  <a href="mailto:pal52@purdue.edu">pal52@purdue.edu</a>
  </p> 
@@ -213,9 +213,10 @@ permalink: /team/
 
   <h4>Piyush Sharma</h4>
    <i> Joined the group in Fall 2024</i><br>
+   <i> Co-advised with <a href="https://engineering.purdue.edu/TackettGroup" target="_blank">Brian Tackett</a></i><br>
    <i> M.Tech., Chemical Engineering, Indian Institute of Science, 2023</i><br>
    <i> B.Eng., Chemical Engineering, Birla Institute of Science & Technology, Pilani, 2020</i>
-  <p> <strong> Research topic:</strong> optimization methods to control multiple steady states for electrochemical production of net-zero fuels</p> 
+  <p> <strong> Research topic:</strong> optimization methods for electrochemical engineering</p> 
   <p>email:
  <a href="mailto:sharm984@purdue.edu">sharm984@purdue.edu</a>
  </p> 
