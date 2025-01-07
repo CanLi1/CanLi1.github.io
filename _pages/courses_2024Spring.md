@@ -6,7 +6,7 @@ sitemap: false
 permalink: /courses
 ---
 
-## CHE 597: Computational Optimization, Spring 2025
+## CHE 597: Computational Optimization, Spring 2024
 
 **Instructor:** Can Li  
 **Email:** canli@purdue.edu  
@@ -24,16 +24,12 @@ This is a graduate-level introductory course to mathematical optimization. We wi
 
 The course lectures will be 30% proofs, 50% algorithms and computation, and 20% modeling and applications in engineering. The homework will keep a similar portion. However, we will not have proofs in the exams since this is a class targeted at engineering students. 
 
-### Previous Offerings:
-Previous offerings of the courses can be found below.
-- [Spring 2024]({{ site.url }}{{ site.baseurl }}/courses_2024Spring)
-
 ### Syllabus
 
 | Date    <br />    | Topic      <br />                                                                  | Slides  <br />    | Homework  <br />| Handouts and Links |Video  <br />| 
 |--|----|--|--|--|--|
 | Tue Jan 9   | Introduction to Course                                                      | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201/Lecture_1_Intro_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201/Lecture_1_Intro_ipad.pdf" target="_blank">ipad</a> |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%201" target="_blank">HW1</a>   |       <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%201" target="_blank">Pyomo Tutorial</a>| <a href="https://youtu.be/2b06DgHF68A" target="_blank">video</a>|
-<!-- | Thu Jan 11   | Convex sets, functions                                                      | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/SaSdryGlfbE?si=eElyZjqTOmz6hxeT" target="_blank">video</a>
+| Thu Jan 11   | Convex sets, functions                                                      | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%202/Lecture_2_convex_sets_and_functions_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/SaSdryGlfbE?si=eElyZjqTOmz6hxeT" target="_blank">video</a>
 | Tue Jan 16   | Unconstrained optimization                                |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%203/Lecture_3_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%203/Lecture_3_ipad.pdf" target="_blank">ipad</a>|   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%202" target="_blank">HW2</a>       |          |<a href="https://youtu.be/iqzk82Sca5w?si=fCNoPbUbC7HKBsvQ" target="_blank">video</a>
 | Thu Jan 18   | Linear Programming Applications                                                             |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/eU3KEsjZopA" target="_blank">video</a>
 | Tue Jan 23   | Polyhedron Theory                                | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_ipad.pdf" target="_blank">ipad</a> |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%203" target="_blank">HW3</a>       |          |<a href="https://youtu.be/jJQ-5irjqlA" target="_blank">video</a>
@@ -60,7 +56,7 @@ Previous offerings of the courses can be found below.
 | Tue Apr 16 |      Bilevel Optimization                                             | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2024/Lecture_24_Bilevel_Optimization_slides.pdf" target="_blank">slides</a>  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2024/Lecture_24_Bilevel_Optimization_ipad.pdf" target="_blank">ipad</a> |        |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/Practice%20Exam%202" target="_blank">practice exam 2</a>       |<a href="https://youtu.be/zEk_plP89oY" target="_blank">video</a>
 | Thu Apr 18 |      MIP Solvers                                            | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%2025/Lecture_25_MIP_Solvers.pdf" target="_blank">slides</a>  |<a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%2012" target="_blank">HW 12</a>         |        |<a href="https://youtu.be/P_dfn8-Kj3o" target="_blank">video</a>
 | Tue Apr 23 |         Project Consulting                                         |  |        |        |
-| Thu Apr 25 |  Final Review                                                  |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Practice%20Exam%202/Practice_Exam_2_ChE_597_2024_Spring_soln.pdf" target="_blank">ipad</a> |        |        |<a href="https://youtu.be/GznKmRp8fAQ" target="_blank">video</a> -->
+| Thu Apr 25 |  Final Review                                                  |   <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Practice%20Exam%202/Practice_Exam_2_ChE_597_2024_Spring_soln.pdf" target="_blank">ipad</a> |        |        |<a href="https://youtu.be/GznKmRp8fAQ" target="_blank">video</a>
 
 ### Recommended Textbooks:
 This class will not exactly follow any textbook. But we may cover some of the content in the following textbooks.
