@@ -78,7 +78,7 @@ We will use the following software
 - [Pyomo](https://www.pyomo.org/) is a collection of Python software packages for formulating optimization models. Tutorial: [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/README.html)
 - [Gurobi](https://www.gurobi.com/documentation/) and [Cplex](https://www.ibm.com/products/ilog-cplex-optimization-studio) are both high-performance mathematical programming solver for linear programming, mixed integer programming, and quadratic programming.
 - [Mosek](https://www.mosek.com/) is a software package for the solution of linear, mixed-integer linear, quadratic, mixed-integer quadratic, quadratically constraint, conic and convex nonlinear mathematical optimization problems.
-- [Pytorch](https://pytorch.org/) PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
+
 
 ### Prerequisite
 

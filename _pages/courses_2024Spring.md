@@ -3,7 +3,7 @@ title: "Li Group - Courses"
 layout: textlay
 excerpt: "Courses"
 sitemap: false
-permalink: /courses
+permalink: /courses_Spring2024
 ---
 
 ## CHE 597: Computational Optimization, Spring 2024
