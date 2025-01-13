@@ -13,9 +13,9 @@ permalink: /courses
 **Classroom:** Hampton Hall of Civil Engineering, Room 2102   
 **Time:** Tuesday and Thursday, 4:30 pm - 5:45 pm   
 **Office:** Forney Hall of Chemical Engineering, Room G027A   
-**Office Hours:** Thursday, 3:30 pm - 4:30 pm   
-**Make-up lecture classroom** Max W and Maileen Brown Family Hall (BHEE) 234   
-**Make-up lecture time** Wednesday, 4:30 pm - 5:45 pm
+**Office Hours:** Wednesday, 5 pm - 6 pm   
+**Make-up lecture classroom** Max W and Maileen Brown Family Hall (BHEE) 236   
+**Make-up lecture time** Monday, Wednesday, 4:30 pm - 5:45 pm
 
 
 
