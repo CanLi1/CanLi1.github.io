@@ -39,6 +39,10 @@ Previous offerings of the courses can be found below.
 | Tue Jan 29   | Linear Programming Applications                                                             |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%204/Lecture_4_Linear_Programming_Applications_ipad.pdf" target="_blank">ipad</a>|          |          |<a href="https://youtu.be/gBFO1j_97TA" target="_blank">video</a>
 | Thu Jan 30   | Polyhedron Theory                                | <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%205/Lecture_5_Polyhedron_Theory_ipad.pdf" target="_blank">ipad</a> |  <a href="https://github.com/li-group/ChE-597-Computational-Optimization/tree/main/HW%203" target="_blank">HW3</a>       |          |<a href="https://youtu.be/UFyzbjMN3Uo" target="_blank">video</a>
 | Tue Feb 4 |    Simplex Algorithm    |<a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%206/Lecture_6_Simplex_Algorithm_slides.pdf" target="_blank">slides</a> <a href="https://github.com/li-group/ChE-597-Computational-Optimization/blob/main/Lecture%206/Lecture_6_Simplex_Algorithm_ipad.pdf" target="_blank">ipad</a>   |          |          |<a href="https://youtu.be/Nee8Ci3cmFc" target="_blank">video</a>
+
+
+
+
 ### Recommended Textbooks:
 This class will not exactly follow any textbook. But we may cover some of the content in the following textbooks.
 1. Grossmann, I. E. (2021). Advanced optimization for process systems engineering. Cambridge University Press.
