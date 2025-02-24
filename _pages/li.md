@@ -37,6 +37,7 @@ permalink: /li/
 <li>NSF CAREER Award, 2025</li>
 <li>Ralph W. and Grace M. Showalter Research Trust Grant, 2024</li>
 <li>ACS PRF Doctoral New Investigator Award, 2024</li>
+<li>Finalist, FOCAPD 2024 Outstanding Doctoral Dissertation Award </li>
 <li>Amazon Research Award, 2023</li>
 <li>Winner of Air Liquide Scientific Challenge, 2023</li>
 <li>CAST Division Student Presentation Award, 3rd place, 2021</li>
