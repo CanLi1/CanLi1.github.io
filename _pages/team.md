@@ -266,22 +266,22 @@ permalink: /team/
 </p>
 
 <p>
-  Annie Zheng (UG Student, 2022-2023): MS at Georgia Tech
+  Annie Zheng (UG Student, IE, 2022-2023): MS Student, Georgia Tech
   <a href="https://www.linkedin.com/in/lingxin-zheng/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  Yash Sinhal (UG Student, 2022-2023): 
+  Yash Sinhal (UG Student, CS, 2022-2023): 
   <a href="https://www.linkedin.com/in/yash-sinhal/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  Jaatani Abdi (UG Student, 2022-2023): PhD Student, MIT
+  Jaatani Abdi (UG Student, ChE, 2022-2023): PhD Student, MIT
   <a href="https://www.linkedin.com/in/jaataniabdi/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  James Kor (UG Student, 2022-2024): Software Engineer, Raytheon
+  James Kor (UG Student, CS, 2022-2024): Software Engineer, Raytheon
   <a href="https://www.linkedin.com/in/jameskor/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
