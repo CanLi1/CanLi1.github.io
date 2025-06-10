@@ -11,30 +11,6 @@ permalink: /team/
  **We are actively looking for new PhD students, Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Postdoctoral Researchers
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Kaiyu.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Kaiyu Cao</h4>
-   <i> Joined the group in Summer 2022</i><br>
-   <i> Ph.D., Chemical Engineering, Texas A&M University, 2022</i>
-  <p> <strong> Research topic:</strong> multiscale algorithms </p> 
-  <p>email:
- <a href="mailto:cao425@purdue.edu">cao425@purdue.edu</a>
- </p> 
- <p>
- <a href="https://www.linkedin.com/in/kaiyu-cao-4b55a1186/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- <a href="https://scholar.google.com/citations?user=VYNxpywAAAAJ&hl=en&oi=ao" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
- </p>
-</div>  </div> 
-
-
-
-
-
 
 <div class="row">
 <div class="col-sm-3">
@@ -73,26 +49,6 @@ permalink: /team/
  </p> 
  <p>
  <a href="https://www.linkedin.com/in/asha-ramanujam/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
-
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Lu.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Yen-Chun Lu</h4>
-   <i> Joined the group in Fall 2022</i><br>
-<i> Co-advised with <a href="https://sites.google.com/view/xiaoping-bao/home" target="_blank">Xiaoping Bao</a></i><br>
-   <i> B.S., Chemical Engineering, National Taiwan University, 2021</i>
-  <p> <strong> Research topic:</strong> machine learning for stem cell </p> 
-  <p>email:
- <a href="mailto:lu992@purdue.edu">lu992@purdue.edu</a>
- </p> 
- <p>
- <a href="https://www.linkedin.com/in/yen-chun-lu-88407a23a" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p>
 </div>  </div> 
 
@@ -225,46 +181,7 @@ permalink: /team/
  </p>
 </div>  </div>
 
-## Master's Students
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Rahul.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Rahul Nahar</h4>
-   <i> Joined the group in Spring 2024</i><br>
-   <i> B.S., Computer Science, University of Wollongong, 2022 </i>
-  <p> <strong> Research topic:</strong> explainable AI using LLMs for fault detection </p> 
-  <p>email:
- <a href="mailto:rnahar@purdue.edu">rnahar@purdue.edu</a>
- </p> 
- <p>
- <a href="" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
-
-
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Adam.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Adam Elyoumi</h4>
-   <i> Joined the group in Spring 2024</i><br>
-   <i> M.S., Applied Mathematics, Ecole Centrale de Nantes (France), 2022</i>
-  <p> <strong> Research topic:</strong> reinforcement learning for the Blending problem </p> 
-  <p>email:
- <a href="mailto:aelyoumi@purdue.edu">aelyoumi@purdue.edu</a>
- </p> 
- <p>
- <a href="https://www.linkedin.com/in/adam-el-youmi-a69338178/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p>
-</div>  </div> 
-
+## MS Students
 
 <div class="row">
 <div class="col-sm-3">
@@ -314,13 +231,78 @@ permalink: /team/
 </p>
 
 <p>
-  Abdullah Khan (Master's Student, 2023-2024): Software Engineer, Cisco
+  Kaiyu Cao (Postdoc, 2022-2024): 
+  <a href="https://www.linkedin.com/in/kaiyu-cao-4b55a1186/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Priya Kumari (MS Student, CS, 2025): 
+  <a href="https://www.linkedin.com/in/priya-kumari27/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Adam Elyoumi (MS Student, CS, 2024-2025): AI/ML Engineer, CubeNexus Inc
+  <a href="https://www.linkedin.com/in/adam-el-youmi-a69338178/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Rahul Nahar (MS Student, CS, 2024): 
+  <a href="https://www.linkedin.com/in/rahulnahar2610/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Yen-Chun Lu (MS Student, ChE, 2022-2025): 
+  <a href="https://www.linkedin.com/in/yen-chun-lu-88407a23a" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Abdullah Khan (MS Student, CS, 2023-2024): Software Engineer, Cisco
   <a href="https://www.linkedin.com/in/abdullahwastaken" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  Krishna Sri Ipsit Mantri (Master's Student, 2023-2024): Master Student, Purdue University
+  Krishna Sri Ipsit Mantri (MS Student, CS, 2023-2024): 
   <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Annie Zheng (UG Student, 2022-2023): MS at Georgia Tech
+  <a href="https://www.linkedin.com/in/lingxin-zheng/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Yash Sinhal (UG Student, 2022-2023): 
+  <a href="https://www.linkedin.com/in/yash-sinhal/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Jaatani Abdi (UG Student, 2022-2023): PhD Student, MIT
+  <a href="https://www.linkedin.com/in/jaataniabdi/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  James Kor (UG Student, 2022-2024): Software Engineer, Raytheon
+  <a href="https://www.linkedin.com/in/jameskor/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Carson Felton (REU Student, 2023): 
+  <a href="https://www.linkedin.com/in/carson-felton-762025219/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Nathan Lavoie (REM Student, 2023): 
+  <a href="https://www.linkedin.com/in/nathan-lavoie-e-i-9910231ba/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Zachary Rasmussen (REU Student, 2024): 
+  <a href="https://www.linkedin.com/in/zachary-j-rasmussen/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Camerin Lee (REM Student, 2024): 
+  <a href="https://www.linkedin.com/in/camerin-lee/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 <br>
 
