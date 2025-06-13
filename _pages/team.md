@@ -213,7 +213,7 @@ permalink: /team/
 
   <h4>Chun-Cheng Chang</h4>
    <i> Joined the group in Fall 2024</i><br>
-   <i> Affiliation: China Steel Corporation</i>
+   <i> Affiliation: China Steel Corporation, Taiwan</i>
   <p>email:
  <a href="mailto:chan1110@purdue.edu">chan1110@purdue.edu</a>
  </p> 
@@ -231,7 +231,7 @@ permalink: /team/
 
   <h4>André Hernán Quisaguano Paredes</h4>
    <i> Joined the group in Spring 2025</i><br>
-   <i> Affiliation: Undergraduate student, Electrical Engineering, Escuela Politécnica Nacional</i>
+   <i> Affiliation: Undergraduate student, Electrical Engineering, Escuela Politécnica Nacional</i><br>
    <i> Research topic: power systems optimization, machine learning</i>
   <p>email:
  <a href="mailto:aquisagu@purdue.edu">aquisagu@purdue.edu</a>
@@ -251,7 +251,8 @@ permalink: /team/
 
   <h4>Haechang Kim</h4>
    <i> Joined the group in Spring 2025</i><br>
-   <i> Affiliation: Chemical and Biological Engineering, Seoul National University</i>
+   <i> Affiliation: PhD student, Chemical and Biological Engineering, Seoul National University</i><br>
+   <i> Research topic: explainable reinforcement learning </i>
   <p>email:
  <a href="mailto:kim5265@purdue.edu">kim5265@purdue.edu</a>
  </p> 
@@ -263,7 +264,7 @@ permalink: /team/
  <hr>
 
 ## Alumni
-### Postdocs
+#### Postdocs
 
 <p>
   Chi Zhang (Postdoc, 2022-2023): Postdoc, University of Central Florida
@@ -277,7 +278,7 @@ permalink: /team/
 
 <br>
 
-### MS Students
+#### MS Students
 
 <p>
   Priya Kumari (MS Student, CS, 2025): 
@@ -311,7 +312,7 @@ permalink: /team/
 
 <br>
 
-### Undergraduate Students
+#### Undergraduate Students
 
 <p>
   Annie Zheng (UG Student, IE, 2022-2023): MS Student, Georgia Tech
