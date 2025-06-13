@@ -221,10 +221,50 @@ permalink: /team/
  <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p> -->
 </div>  </div> 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/andre.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>André Hernán Quisaguano Paredes</h4>
+   <i> Joined the group in Spring 2025</i><br>
+   <i> Affiliation: Undergraduate student, Electrical Engineering, Escuela Politécnica Nacional</i>
+   <i> Research topic: power systems optimization, machine learning</i>
+  <p>email:
+ <a href="mailto:aquisagu@purdue.edu">aquisagu@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/andré-quisaguano-bb5933247/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://scholar.google.com/citations?hl=es&user=VrCXwYgAAAAJ" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+ </p>
+</div>  </div> 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Haechang.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Haechang Kim</h4>
+   <i> Joined the group in Spring 2025</i><br>
+   <i> Affiliation: Chemical and Biological Engineering, Seoul National University</i>
+  <p>email:
+ <a href="mailto:kim5265@purdue.edu">kim5265@purdue.edu</a>
+ </p> 
+ <!-- <p>
+ <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p> -->
+</div>  </div> 
  
  <hr>
 
 ## Alumni
+### Postdocs
+
 <p>
   Chi Zhang (Postdoc, 2022-2023): Postdoc, University of Central Florida
   <a href="https://www.linkedin.com/in/chi-zhang-ba833a272" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
@@ -234,6 +274,10 @@ permalink: /team/
   Kaiyu Cao (Postdoc, 2022-2024): 
   <a href="https://www.linkedin.com/in/kaiyu-cao-4b55a1186/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
+
+<br>
+
+### MS Students
 
 <p>
   Priya Kumari (MS Student, CS, 2025): 
@@ -264,6 +308,10 @@ permalink: /team/
   Krishna Sri Ipsit Mantri (MS Student, CS, 2023-2024): 
   <a href="https://www.linkedin.com/in/ipsit-mantri/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
+
+<br>
+
+### Undergraduate Students
 
 <p>
   Annie Zheng (UG Student, IE, 2022-2023): MS Student, Georgia Tech
@@ -307,80 +355,7 @@ permalink: /team/
 <br>
 
 
-[//]: # (## Undergraduate Researchers)
 
-[//]: # (<div class="row">)
-
-[//]: # (<div class="col-sm-3">)
-
-[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zheng.jpeg" class="img-responsive" width="80%" style="float: left" /><br />)
-
-[//]: # ( )
-[//]: # (</div>)
-
-[//]: # (<div class="col-sm-9">)
-
-[//]: # ()
-[//]: # (  <h4>Annie Zheng</h4>)
-
-[//]: # (  )
-[//]: # (   <i> Junior in Industrial Engineering</i>)
-
-[//]: # ( )
-[//]: # ( <p>)
-
-[//]: # ( <a href="https://www.linkedin.com/in/annie-zheng-46b45214b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>)
-
-[//]: # ( </p>)
-
-[//]: # (</div>  </div> )
-
-[//]: # ()
-[//]: # (<div class="row">)
-
-[//]: # (<div class="col-sm-3">)
-
-[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Yash.jpg" class="img-responsive" width="80%" style="float: left" /><br />)
-
-[//]: # ( )
-[//]: # (</div>)
-
-[//]: # (<div class="col-sm-9">)
-
-[//]: # ()
-[//]: # (  <h4>Yash Sinhal</h4>)
-
-[//]: # (  )
-[//]: # (   <i> Sophomore in Computer Science</i>)
-
-[//]: # ()
-[//]: # (</div>  </div> )
-
-[//]: # ()
-[//]: # (<div class="row">)
-
-[//]: # (<div class="col-sm-3">)
-
-[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaatani.jpg" class="img-responsive" width="80%" style="float: left" /><br />)
-
-[//]: # ( )
-[//]: # (</div>)
-
-[//]: # (<div class="col-sm-9">)
-
-[//]: # ()
-[//]: # (  <h4>Jaatani Abdi</h4>)
-
-[//]: # (  )
-[//]: # (   <i> Sophomore in Chemical Engineering</i>)
-
-[//]: # ( <p>)
-
-[//]: # ( <a href="https://www.linkedin.com/in/jaataniabdi/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>)
-
-[//]: # ( </p>)
-
-[//]: # (</div>  </div> )
-  <br> <br> <br> <br> <br> <br> <br> <br>
+  <br> <br> <br> <br> <br> <br> <br> 
 
 
