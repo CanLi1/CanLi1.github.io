@@ -25,7 +25,7 @@ Many decision-making problems in process systems engineering involve complex com
 Reducing carbon emissions in industrial ecosystems—clusters of interconnected plants like steel mills, chemical factories, and energy providers—requires collaboration beyond individual companies. Today, each stakeholder optimizes its own operations, but this “local optimization” misses opportunities for system-wide CO₂ reductions. We focus on enabling secure, privacy-preserving data sharing between stakeholders to unlock these opportunities. By safely sharing production plans, energy use, and emission data, companies can jointly optimize energy consumption, integrate renewables, and cut emissions more effectively. Our research develops federated data-sharing frameworks that protect confidentiality while enabling global optimization of industrial networks. This approach builds trust, enhances resource efficiency, and drives decarbonization that no single company could achieve alone.
 
 We would like to acknowledge the support from the following funding agencies:
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/sponsors.png" width="70%" style="display:block; margin-left: auto; margin-right: auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/sponsors.pdf" width="70%" style="display:block; margin-left: auto; margin-right: auto;">
 
 <!-- **Sustainable energy systems design** 
 The major economies in the world including the U.S., EU, and China all have set their goals to achieve net-zero carbon emission in the next few decades. As process systems engineers, we aim to design
