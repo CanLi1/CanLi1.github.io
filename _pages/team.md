@@ -192,7 +192,7 @@ permalink: /team/
 
   <h4>Ashley Jojan Varghese</h4>
    <i> Joined the group in Spring 2024</i><br>
-   <i> B.S., Computer Science, Purdue University, 2023 </i>
+   <i> B.S., Computer Science, Purdue University, 2023 </i><br>
   <p> <strong> Research topic:</strong> AI/ML for single cell RNA analysis </p> 
   <p>email:
  <a href="mailto:varghes8@purdue.edu">varghes8@purdue.edu</a>
@@ -201,6 +201,24 @@ permalink: /team/
  <a href="https://www.linkedin.com/in/ashley-j-varghese-2508/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p>
 </div>  </div> 
+
+<div class="row">
+  <div class="col-sm-3">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/quinn.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+  </div>
+  <div class="col-sm-9">
+    <h4>Quinn Huckaba</h4>
+    <i>Joined the group in Fall 2025</i><br>
+    <i>B.Sci, Physics, United States Military Academy, 2025</i><br>
+    <p><strong>Research topic:</strong> Machine Learning Optimization of Chemical Reaction Processes</p>
+    <p>email:
+      <a href="mailto:qhuckaba@purdue.edu">qhuckaba@purdue.edu</a>
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/quinn-huckaba-1aa82932b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+    </p>
+  </div>
+</div>
 
 
 ## Visiting Scholars
@@ -260,6 +278,42 @@ permalink: /team/
  <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  </p> -->
 </div>  </div> 
+
+<div class="row">
+  <div class="col-sm-3">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/laura.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+  </div>
+  <div class="col-sm-9">
+    <h4>Laura Tatiana Villa Corzo</h4>
+    <i>Joined the group in Fall 2025</i><br>
+    <i>Affiliation: Undergraduate student, Chemical Engineering, Universidad Nacional de Colombia</i><br>
+    <i>Research topic: optimization methods for heat integration</i>
+    <p>email:
+      <a href="mailto:lvillaco@purdue.edu">lvillaco@purdue.edu</a>
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/laura-villa-91a2a734b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-3">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gabriel.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+  </div>
+  <div class="col-sm-9">
+    <h4>Gabriel Canindé de Medeiros</h4>
+    <i>Joined the group in Fall 2025</i><br>
+    <i>Affiliation: Undergraduate Student in Computer Engineering at Military Engineering Institute (IME)</i><br>
+    <i>Research topic: explainable AI</i>
+    <p>email:
+      <a href="mailto:gcaninde@purdue.edu">gcaninde@purdue.edu</a>
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/gabriel-medeiros-374a3b233/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+    </p>
+  </div>
+</div>
  
  <hr>
 
