@@ -202,7 +202,7 @@ permalink: /team/
  </p>
 </div>  </div> 
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-sm-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/quinn.jpg" class="img-responsive" width="80%" style="float: left" /><br />
   </div>
@@ -218,7 +218,7 @@ permalink: /team/
       <a href="https://www.linkedin.com/in/quinn-huckaba-1aa82932b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
     </p>
   </div>
-</div>
+</div> -->
 
 
 ## Visiting Scholars
