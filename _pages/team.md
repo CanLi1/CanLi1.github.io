@@ -202,7 +202,7 @@ permalink: /team/
  </p>
 </div>  </div> 
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-sm-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/quinn.jpg" class="img-responsive" width="80%" style="float: left" /><br />
   </div>
@@ -218,7 +218,7 @@ permalink: /team/
       <a href="https://www.linkedin.com/in/quinn-huckaba-1aa82932b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
     </p>
   </div>
-</div> -->
+</div>
 
 
 ## Visiting Scholars
@@ -280,40 +280,42 @@ permalink: /team/
 </div>  </div> 
 
 <div class="row">
-  <div class="col-sm-3">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/laura.jpg" class="img-responsive" width="80%" style="float: left" /><br />
-  </div>
-  <div class="col-sm-9">
-    <h4>Laura Tatiana Villa Corzo</h4>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/laura.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+
+</div>
+<div class="col-sm-9">
+
+  <h4>Laura Tatiana Villa Corzo</h4>
     <i>Joined the group in Fall 2025</i><br>
     <i>Affiliation: Undergraduate student, Chemical Engineering, Universidad Nacional de Colombia</i><br>
     <i>Research topic: optimization methods for heat integration</i>
-    <p>email:
-      <a href="mailto:lvillaco@purdue.edu">lvillaco@purdue.edu</a>
-    </p>
-    <p>
-      <a href="https://www.linkedin.com/in/laura-villa-91a2a734b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
-    </p>
-  </div>
-</div>
+ <p>email:
+ <a href="mailto:lvillaco@purdue.edu">lvillaco@purdue.edu</a>
+ </p>
+ <p>
+<a href="https://www.linkedin.com/in/laura-villa-91a2a734b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
 
 <div class="row">
-  <div class="col-sm-3">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gabriel.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
-  </div>
-  <div class="col-sm-9">
-    <h4>Gabriel Canindé de Medeiros</h4>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gabriel.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+
+</div>
+<div class="col-sm-9">
+
+  <h4>Gabriel Canindé de Medeiros</h4>
     <i>Joined the group in Fall 2025</i><br>
     <i>Affiliation: Undergraduate Student in Computer Engineering at Military Engineering Institute (IME)</i><br>
     <i>Research topic: explainable AI</i>
-    <p>email:
-      <a href="mailto:gcaninde@purdue.edu">gcaninde@purdue.edu</a>
-    </p>
-    <p>
-      <a href="https://www.linkedin.com/in/gabriel-medeiros-374a3b233/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
-    </p>
-  </div>
-</div>
+ <p>email:
+ <a href="mailto:gcaninde@purdue.edu">gcaninde@purdue.edu</a>
+ </p>
+ <p>
+<a href="https://www.linkedin.com/in/gabriel-medeiros-374a3b233/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
  
  <hr>
 
