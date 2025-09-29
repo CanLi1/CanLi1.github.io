@@ -202,23 +202,26 @@ permalink: /team/
  </p>
 </div>  </div> 
 
-<!-- <div class="row">
-  <div class="col-sm-3">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/quinn.jpg" class="img-responsive" width="80%" style="float: left" /><br />
-  </div>
-  <div class="col-sm-9">
-    <h4>Quinn Huckaba</h4>
-    <i>Joined the group in Fall 2025</i><br>
-    <i>B.Sci, Physics, United States Military Academy, 2025</i><br>
-    <p><strong>Research topic:</strong> Machine Learning Optimization of Chemical Reaction Processes</p>
-    <p>email:
-      <a href="mailto:qhuckaba@purdue.edu">qhuckaba@purdue.edu</a>
-    </p>
-    <p>
-      <a href="https://www.linkedin.com/in/quinn-huckaba-1aa82932b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
-    </p>
-  </div>
-</div> -->
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/quinn.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+
+</div>
+<div class="col-sm-9">
+<h4>Quinn Huckaba</h4>
+<i>Joined the group in Fall 2025</i><br>
+<i>B.S., Physics, United States Military Academy, 2025</i><br>
+
+<p><strong>Research topic:</strong> Machine Learning Optimization of Chemical Reaction Processes</p>
+<p>email:
+<a href="mailto:qhuckaba@purdue.edu">qhuckaba@purdue.edu</a>
+</p>
+<p>
+<a href="https://www.linkedin.com/in/quinn-huckaba-1aa82932b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+</div>
+</div>
 
 
 ## Visiting Scholars
