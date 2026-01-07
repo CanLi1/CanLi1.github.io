@@ -1,0 +1,13 @@
+@article{MOLLAALI2025107809,
+title = {Conformalized prediction of post-fault voltage trajectories using pre-trained and finetuned attention-driven neural operators},
+journal = {Neural Networks},
+volume = {192},
+pages = {107809},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.107809},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025006896},
+author = {Amirhossein Mollaali and Gabriel Zufferey and Gonzalo Constante-Flores and Christian Moya and Can Li and Meng Yue and Guang Lin},
+keywords = {Voltage stability, Conformalized prediction, Deep Operator Networks, Fine-tuning, Uncertainty quantification, Power grid dynamics},
+abstract = {This paper proposes a new data-driven methodology for predicting intervals of post-fault voltage trajectories in power systems. We begin by introducing the Quantile Attention-Fourier Deep Operator Network (QAF-DeepONet), designed to capture the complex dynamics of voltage trajectories and reliably estimate quantiles of the target trajectory without any distributional assumptions. The proposed operator regression model maps the observed portion of the voltage trajectory to its unobserved post-fault trajectory. Our methodology employs a pre-training and fine-tuning process to address the challenge of limited data availability. To ensure data privacy in learning the pre-trained model, we employ federated learning to aggregate information from neighboring buses, enabling the model to learn the underlying voltage dynamics from such buses without directly sharing their data. After pre-training, we fine-tune the model with data from the target bus, allowing it to adapt to unique dynamics and operating conditions. Finally, we integrate conformal prediction into the fine-tuned model to ensure coverage guarantees for the predicted intervals. We evaluated the performance of the proposed methodology using the New England 39-bus test system, considering detailed models of voltage and frequency controllers. Two metrics, Prediction Interval Coverage Probability (PICP) and Prediction Interval Normalized Average Width (PINAW), are used to numerically assess the model’s performance in predicting intervals. The results show that the proposed approach offers practical and reliable uncertainty quantification in predicting the interval of post-fault voltage trajectories.}
+}

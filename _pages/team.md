@@ -348,12 +348,12 @@ permalink: /team/
 </p>
 
 <p>
-  André Hernán Quisaguano Paredes (UG Student, EE, 2025) 
+  André Hernán Quisaguano Paredes (UG Student, EE, 2025)
   <a href="https://www.linkedin.com/in/andré-quisaguano-bb5933247/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <p>
-  Haechang Kim (PhD student, ChE, 2025): Seoul National University
+  Haechang Kim (PhD student, ChE, 2025): PhD student, Seoul National University
 </p>
 
 <p>

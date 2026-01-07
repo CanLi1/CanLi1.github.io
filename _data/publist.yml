@@ -1,3 +1,80 @@
+- title: "OptiChat: Bridging Optimization Models and Practitioners with Large Language Models"
+  authors: Chen, H., Constante-Flores, G. E., Mantri, K. S. I., Kompalli, S. M., Ahluwalia, A. S., & Li, C.
+  journal: INFORMS Journal on Data Science
+  year: (2025)
+  paper: https://pubsonline.informs.org/doi/abs/10.1287/ijds.2025.0074
+  bibtex: 2025INFORMSJDS.bib
+
+- title: "Enforcing Hard Linear Constraints in Deep Learning Models with Decision Rules"
+  authors: Constante-Flores, G. E., Chen, H., & Li, C.
+  journal: NeurIPS
+  year: (2025)
+  paper: https://arxiv.org/abs/2505.13858
+  bibtex: 2025NIPS.bib
+
+- title: "TalkToAgent: A human-centric explanation of reinforcement learning agents with large language models"
+  authors: Kim, H., Chen, H., Li, C., & Lee, J. M.
+  journal: 'arXiv'
+  year: (2025)
+  paper: https://arxiv.org/abs/2509.04809
+  bibtex: 2025ARXIV4.bib
+
+- title: "Conformalized prediction of post-fault voltage trajectories using pre-trained and finetuned attention-driven neural operators"
+  authors: Mollaali, A., Zufferey, G., Constante-Flores, G., Moya, C., Li, C., Yue, M., & Lin, G.
+  journal: 'Neural Networks'
+  year: (2025)
+  paper: https://www.sciencedirect.com/science/article/abs/pii/S0893608025006896
+  bibtex: 2025NN.bib
+
+- title: "SafeOR-Gym: A Benchmark Suite for Safe Reinforcement Learning Algorithms on Practical Operations Research Problems"
+  authors: Ramanujam, A., Elyoumi, A., Chen, H., Kompalli, S. M., Ahluwalia, A. S., Pal, S., Papageorgiou, D. J., & Li, C.
+  journal: 'arXiv'
+  year: (2025)
+  paper: https://arxiv.org/abs/2506.02255
+  bibtex: 2025ARXIV3.bib
+
+- title: "PAMSO: Parametric Autotuning Multi-time Scale Optimization Algorithm"
+  authors: Ramanujam, A. & Li, C.
+  journal:  'Computers & Chemical Engineering'
+  year: (2025)
+  paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135425001644
+  bibtex: 2025CACE2.bib
+
+- title: "Breaking data silos in drug discovery with federated learning"
+  authors: Li, C.
+  journal: 'Nature Chemical Engineering'
+  year: (2025)
+  paper: https://www.nature.com/articles/s44286-025-00213-x
+  bibtex: 2025NATURE.bib
+
+- title: "FaultExplainer: Leveraging large language models for interpretable fault detection and diagnosis"
+  authors: Khan, A., Nahar, R., Chen, H., Constante-Flores, G. E., & Li, C.
+  journal: 'Computers & Chemical Engineering'
+  year: (2025)
+  paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135425001565
+  bibtex: 2025CACE1.bib
+
+- title: "A Tutorial on Multi-time Scale Optimization Models and Algorithms"
+  authors: Ramanujam, A. & Li, C.
+  journal:  'arXiv'
+  year: (2025)
+  paper: https://arxiv.org/abs/2502.20568
+  bibtex: 2025ARXIV2.bib
+
+- title: "A Quadratically-Constrained Convex Approximation for the AC Optimal Power Flow"
+  authors: Constante-Flores, G. & Li, C.
+  journal:  'arXiv'
+  year: (2025)
+  paper: https://arxiv.org/abs/2501.05623
+  bibtex: 2025ARXIV.bib
+
+- title: "AC-Network-Informed DC Optimal Power Flow for Electricity Markets"
+  authors: Constante-Flores, G., Conejo, A.J., Quisaguano, A.H., Li, C.
+  journal:  'Proceedings of the 58th Hawaii International Conference on System Sciences'
+  year: (2025)
+  paper: https://arxiv.org/abs/2410.18413
+  bibtex: 2025ICSS.bib
+
 - title: "Physics-informed neural networks with hard linear equality constraints"
   image: 2024CACE2.png
   description:  Physics-informed neural network (PINN) leverages known physical constraints present in the data, but it cannot strictly satisfy them in the predictions. We propose an architecture to rigorously guarantee hard linear equality constraints through projection layers derived from KKT conditions. 
@@ -18,13 +95,6 @@
   preprint: 2023ARXIV.pdf
   bibtex: 2024INFOR.bib
   highlight: 1
-
-- title: "PAMSO: Parametric Autotuning Multi-time Scale Optimization Algorithm"
-  authors: Ramanujam, A. & Li, C.
-  journal:  ARXIV
-  year: (2024)
-  paper: https://arxiv.org/abs/2407.16570
-  bibtex: 2024PASMO.bib
 
 - title: "Solution polishing via path relinking for continuous black-box optimization"
   authors: Papageorgiou, D.J., Kronqvist, J., Ramanujam, A., Kor, J., Kim, Y., Li, C.
