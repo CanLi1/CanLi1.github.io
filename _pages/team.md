@@ -227,63 +227,6 @@ permalink: /team/
 ## Visiting Scholars
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ChunCheng.JPG" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Chun-Cheng Chang</h4>
-   <i> Joined the group in Fall 2024</i><br>
-   <i> Affiliation: China Steel Corporation, Taiwan</i>
-  <p>email:
- <a href="mailto:chan1110@purdue.edu">chan1110@purdue.edu</a>
- </p> 
- <!-- <p>
- <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p> -->
-</div>  </div> 
-
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/andre.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>André Hernán Quisaguano Paredes</h4>
-   <i> Joined the group in Spring 2025</i><br>
-   <i> Affiliation: Undergraduate student, Electrical Engineering, Escuela Politécnica Nacional</i><br>
-   <i> Research topic: power systems optimization, machine learning</i>
-  <p>email:
- <a href="mailto:aquisagu@purdue.edu">aquisagu@purdue.edu</a>
- </p> 
- <p>
- <a href="https://www.linkedin.com/in/andré-quisaguano-bb5933247/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- <a href="https://scholar.google.com/citations?hl=es&user=VrCXwYgAAAAJ" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
- </p>
-</div>  </div> 
-
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Haechang.jpg" class="img-responsive" width="80%" style="float: left" /><br />
- 
-</div>
-<div class="col-sm-9">
-
-  <h4>Haechang Kim</h4>
-   <i> Joined the group in Spring 2025</i><br>
-   <i> Affiliation: PhD student, Chemical and Biological Engineering, Seoul National University</i><br>
-   <i> Research topic: explainable reinforcement learning </i>
-  <p>email:
- <a href="mailto:kim5265@purdue.edu">kim5265@purdue.edu</a>
- </p> 
- <!-- <p>
- <a href="https://www.linkedin.com/in/xxxx/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
- </p> -->
-</div>  </div> 
-
-<div class="row">
-<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/laura.jpg" class="img-responsive" width="80%" style="float: left" /><br />
 
 </div>
@@ -298,26 +241,6 @@ permalink: /team/
 </p>
 <p>
 <a href="https://www.linkedin.com/in/laura-villa-91a2a734b/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gabriel.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
-
-</div>
-<div class="col-sm-9">
-
-<h4>Gabriel Canindé de Medeiros</h4>
-<i>Joined the group in Fall 2025</i><br>
-<i>Affiliation: Undergraduate Student in Computer Engineering at Military Engineering Institute (IME)</i><br>
-<i>Research topic: explainable AI</i>
-<p>email:
-<a href="mailto:gcaninde@purdue.edu">gcaninde@purdue.edu</a>
-</p>
-<p>
-<a href="https://www.linkedin.com/in/gabriel-medeiros-374a3b233/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 </div>
 </div>
@@ -418,7 +341,25 @@ permalink: /team/
 </p>
 <br>
 
+#### Visiting Scholars
 
+<p>
+  Chun-Cheng Chang (China Steel Corporation, 2024-2025): China Steel Corporation
+</p>
+
+<p>
+  André Hernán Quisaguano Paredes (UG Student, EE, 2025) 
+  <a href="https://www.linkedin.com/in/andré-quisaguano-bb5933247/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Haechang Kim (PhD student, ChE, 2025): Seoul National University
+</p>
+
+<p>
+  Gabriel Canindé de Medeiros (UG Student, CS, 2025)
+  <a href="https://www.linkedin.com/in/gabriel-medeiros-374a3b233/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
 
   <br> <br> <br> <br> <br> <br> <br> 
 
