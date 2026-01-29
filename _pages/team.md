@@ -215,7 +215,7 @@ permalink: /team/
    <i> B.Tech., Chemical Engineering, Indian Institute of Technology Roorkee, 2024</i><br>
   <p> <strong> Research topic:</strong> data sharing for decarbonization</p> 
   <p>email:
- <a href="mailto:vardhans@purdue.edu">"vardhans@purdue.edu</a>
+ <a href="mailto:vardhans@purdue.edu">vardhans@purdue.edu</a>
  </p> 
  <p>
  <a href="https://www.linkedin.com/in/saket-vardhan/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
