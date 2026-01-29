@@ -181,27 +181,48 @@ permalink: /team/
  </p>
 </div>  </div>
 
-## MS Students
 
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Ashley.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Rafif.jpg" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
 
-  <h4>Ashley Jojan Varghese</h4>
-   <i> Joined the group in Spring 2024</i><br>
-   <i> B.S., Computer Science, Purdue University, 2023 </i><br>
-  <p> <strong> Research topic:</strong> AI/ML for single cell RNA analysis </p> 
+  <h4>Rafif Sulthan Ramadhan</h4>
+   <i> Joined the group in Fall 2025</i><br>
+   <i> B.Sc., Mechanical Engineering, RWTH Aachen University, 2025</i><br>
+  <p> <strong> Research topic:</strong> optimization-inspired neural networks</p> 
   <p>email:
- <a href="mailto:varghes8@purdue.edu">varghes8@purdue.edu</a>
+ <a href="mailto:rramadha@purdue.edu">rramadha@purdue.edu</a>
  </p> 
  <p>
- <a href="https://www.linkedin.com/in/ashley-j-varghese-2508/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://www.linkedin.com/in/rafiframadhan/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ <a href="https://scholar.google.com/citations?user=Fq9x4oMAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
  </p>
-</div>  </div> 
+</div>  </div>
 
+
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/saket.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+ 
+</div>
+<div class="col-sm-9">
+
+  <h4>Saket Vardhan</h4>
+   <i> Joined the group in Fall 2025</i><br>
+   <i> B.Tech., Chemical Engineering, Indian Institute of Technology Roorkee, 2024</i><br>
+  <p> <strong> Research topic:</strong> data sharing for decarbonization</p> 
+  <p>email:
+ <a href="mailto:vardhans@purdue.edu">"vardhans@purdue.edu</a>
+ </p> 
+ <p>
+ <a href="https://www.linkedin.com/in/saket-vardhan/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
+ </p>
+</div>  </div>
+
+## MS Students
 
 <div class="row">
 <div class="col-sm-3">
@@ -267,7 +288,12 @@ permalink: /team/
 #### MS Students
 
 <p>
-  Priya Kumari (MS Student, CS, 2025): 
+  Ashley Jojan Varghese (MS Student, CS, 2024-2025):
+  <a href="https://www.linkedin.com/in/ashley-j-varghese-2508/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Priya Kumari (MS Student, CS, 2025): Network Security Engineer, T-Mobile
   <a href="https://www.linkedin.com/in/priya-kumari27/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
@@ -277,7 +303,7 @@ permalink: /team/
 </p>
 
 <p>
-  Rahul Nahar (MS Student, CS, 2024): 
+  Rahul Nahar (MS Student, CS, 2024): AI Software Engineer, HelloSky
   <a href="https://www.linkedin.com/in/rahulnahar2610/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
