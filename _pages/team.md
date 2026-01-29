@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are actively looking for new PhD students, Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## Postdoctoral Researchers
+<!-- ## Postdoctoral Researchers
 
 <div class="row">
 <div class="col-sm-3">
@@ -30,7 +30,7 @@ permalink: /team/
  <a href="https://www.linkedin.com/in/gconstantef/" target="_blank" class="icon"><i class="fab fa-linkedin fa-2x"></i></a>
  <a href="https://scholar.google.com.ec/citations?user=KFCcT3MAAAAJ&hl=en" target="_blank" class="icon"><i class="ai ai-google-scholar-square ai-2x"></i></a>
  </p>
-</div>  </div> 
+</div>  </div>  -->
 
 ## PhD Students
 <div class="row">
@@ -162,7 +162,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/piyush.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/piyush.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
@@ -205,7 +205,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/saket.jpg" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/saket.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
@@ -281,6 +281,11 @@ permalink: /team/
 <p>
   Kaiyu Cao (Postdoc, 2022-2024): 
   <a href="https://www.linkedin.com/in/kaiyu-cao-4b55a1186/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
+</p>
+
+<p>
+  Gonzalo Esteban Constante Flores (Postdoc, 2023-2025): Assistant Professor, University of Colorado Boulder
+  <a href="https://www.linkedin.com/in/gconstantef/" target="_blank" class="icon" style="margin-left: 10px;"><i class="fab fa-linkedin fa-2x"></i></a>
 </p>
 
 <br>
