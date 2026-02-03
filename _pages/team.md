@@ -205,7 +205,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/saket.jpeg" class="img-responsive" width="80%" style="float: left" /><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/saket.jpg" class="img-responsive" width="80%" style="float: left" /><br />
  
 </div>
 <div class="col-sm-9">
