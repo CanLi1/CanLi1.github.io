@@ -6,6 +6,19 @@ permalink: /pictures/
 ---
 # Gallery
 
+## 2026 Spring
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Pu_2026.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
+</div>
+
+## 2025 Fall
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2025Fall.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
+</div>
+<div class="row">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2025Fall2.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />
+</div>
+
 ## 2024 Winter
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2024Winter.jpg" class="img-responsive" style="display: block; margin: auto; width: 85%; height: auto;" />

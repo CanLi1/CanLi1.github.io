@@ -10,7 +10,7 @@ We are a research group at the [Davidson School of Chemical Engineering](https:/
 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Pu_2024.jpg" alt="Slide 1" width="85%" style="display:block; margin-left: auto; margin-right: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Pu_2026.jpg" alt="Slide 1" width="85%" style="display:block; margin-left: auto; margin-right: auto;" />
 
 
 
