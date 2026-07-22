@@ -1,3 +1,9 @@
+- title: "DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers"
+  authors: Pal, S., & Li, C.
+  journal: Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)
+  year: (2026)
+  preprint: 2026ICML.pdf
+
 - title: "OptiChat: Bridging Optimization Models and Practitioners with Large Language Models"
   authors: Chen, H., Constante-Flores, G. E., Mantri, K. S. I., Kompalli, S. M., Ahluwalia, A. S., & Li, C.
   journal: INFORMS Journal on Data Science
@@ -9,7 +15,7 @@
   authors: Constante-Flores, G. E., Chen, H., & Li, C.
   journal: NeurIPS
   year: (2025)
-  paper: https://arxiv.org/abs/2505.13858
+  paper: https://openreview.net/forum?id=gjiCml2CNG
   bibtex: 2025NIPS.bib
 
 - title: "TalkToAgent: A human-centric explanation of reinforcement learning agents with large language models"
