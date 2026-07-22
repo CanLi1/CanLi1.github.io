@@ -34,6 +34,8 @@ permalink: /li/
    
 <h4>Honors and Awards</h4>
 <ul style="overflow: hidden">
+<li>INFOR Best Paper Award, 2026</li>
+<li>Acorn Award, 2026</li>
 <li>NSF CAREER Award, 2025</li>
 <li>Ralph W. and Grace M. Showalter Research Trust Grant, 2024</li>
 <li>ACS PRF Doctoral New Investigator Award, 2024</li>
