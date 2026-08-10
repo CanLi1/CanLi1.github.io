@@ -1,113 +1,135 @@
+- title: "scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis"
+  authors: Chiu, H.-H., Varghese, A., Shao, K., Lu, Y.-C., Nahar, R., Chen, H., Deng, Q., Bao, X., & Li, C.
+  journal: AIChE Journal, 72(6), e70285
+  year: (2026)
+  paper: https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.70285
+
+- title: "Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks"
+  authors: Chen, H., Qian, C., Morris, C., Lodi, A., & Li, C.
+  journal: 'arXiv'
+  year: (2026)
+  paper: https://arxiv.org/abs/2605.07113
+
+- title: "A Tutorial on Multi-time Scale Optimization Models and Algorithms"
+  authors: Ramanujam, A., & Li, C.
+  journal: 'Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties'
+  year: (2026)
+  paper: https://arxiv.org/abs/2502.20568
+
+- title: "SafeOR-Gym: A Benchmark Suite for Safe Reinforcement Learning Algorithms on Practical Operations Research Problems"
+  authors: Ramanujam, A., El Youmi, A., Chen, H., Kompalli, S. M., Ahluwalia, A. S., Pal, S., Papageorgiou, D. J., & Li, C.
+  journal: Transactions on Machine Learning Research
+  year: (2026)
+  paper: https://openreview.net/forum?id=3EREfePUvi
+
+- title: "TalkToAgent: A Multi-Agent LLM Framework for Natural Language Explanation of Reinforcement Learning Policies"
+  authors: Kim, H., Chen, H., Li, C., & Lee, J. M.
+  journal: Computers & Chemical Engineering, 211, 109672
+  year: (2026)
+  paper: https://doi.org/10.1016/j.compchemeng.2026.109672
+
+- title: "Model-Free Reinforcement Learning for Optimal Control of Switched Systems"
+  authors: Zhang, C., Li, C., & Mou, S.
+  journal: IEEE Transactions on Automation Science and Engineering, 23, 8022-8033
+  year: (2026)
+  paper: https://doi.org/10.1109/TASE.2026.3682690
+
+- title: "A Quadratically-Constrained Convex Approximation for the AC Optimal Power Flow"
+  authors: Constante-Flores, G., & Li, C.
+  journal: Optimization and Engineering
+  year: (2026)
+  paper: https://link.springer.com/article/10.1007/s11081-026-10079-4
+
+- title: "Self-Supervised Learning of Parametric Approximation for Security-Constrained DC-OPF"
+  authors: Anrrango, A., Quisaguano, A., Constante-Flores, G. E., & Li, C.
+  journal: 'arXiv'
+  year: (2026)
+  paper: https://arxiv.org/abs/2601.13486
+
 - title: "DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers"
   authors: Pal, S., & Li, C.
   journal: Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)
   year: (2026)
   preprint: 2026ICML.pdf
 
+- title: "Conformalized prediction of post-fault voltage trajectories using pre-trained and finetuned attention-driven neural operators"
+  authors: Mollaali, A., Zufferey, G., Constante-Flores, G., Moya, C., Li, C., Yue, M., & Lin, G.
+  journal: Neural Networks, 192, 107809
+  year: (2025)
+  paper: https://www.sciencedirect.com/science/article/abs/pii/S0893608025006896
+
 - title: "OptiChat: Bridging Optimization Models and Practitioners with Large Language Models"
   authors: Chen, H., Constante-Flores, G. E., Mantri, K. S. I., Kompalli, S. M., Ahluwalia, A. S., & Li, C.
   journal: INFORMS Journal on Data Science
   year: (2025)
   paper: https://pubsonline.informs.org/doi/abs/10.1287/ijds.2025.0074
-  bibtex: 2025INFORMSJDS.bib
 
 - title: "Enforcing Hard Linear Constraints in Deep Learning Models with Decision Rules"
   authors: Constante-Flores, G. E., Chen, H., & Li, C.
-  journal: NeurIPS
+  journal: NeurIPS 2025
   year: (2025)
   paper: https://openreview.net/forum?id=gjiCml2CNG
-  bibtex: 2025NIPS.bib
-
-- title: "TalkToAgent: A human-centric explanation of reinforcement learning agents with large language models"
-  authors: Kim, H., Chen, H., Li, C., & Lee, J. M.
-  journal: 'arXiv'
-  year: (2025)
-  paper: https://arxiv.org/abs/2509.04809
-  bibtex: 2025ARXIV4.bib
-
-- title: "Conformalized prediction of post-fault voltage trajectories using pre-trained and finetuned attention-driven neural operators"
-  authors: Mollaali, A., Zufferey, G., Constante-Flores, G., Moya, C., Li, C., Yue, M., & Lin, G.
-  journal: 'Neural Networks'
-  year: (2025)
-  paper: https://www.sciencedirect.com/science/article/abs/pii/S0893608025006896
-  bibtex: 2025NN.bib
-
-- title: "SafeOR-Gym: A Benchmark Suite for Safe Reinforcement Learning Algorithms on Practical Operations Research Problems"
-  authors: Ramanujam, A., Elyoumi, A., Chen, H., Kompalli, S. M., Ahluwalia, A. S., Pal, S., Papageorgiou, D. J., & Li, C.
-  journal: 'arXiv'
-  year: (2025)
-  paper: https://arxiv.org/abs/2506.02255
-  bibtex: 2025ARXIV3.bib
 
 - title: "PAMSO: Parametric Autotuning Multi-time Scale Optimization Algorithm"
-  authors: Ramanujam, A. & Li, C.
-  journal:  'Computers & Chemical Engineering'
+  authors: Ramanujam, A., & Li, C.
+  journal: Computers & Chemical Engineering, 200, 109160
   year: (2025)
   paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135425001644
-  bibtex: 2025CACE2.bib
 
-- title: "Breaking data silos in drug discovery with federated learning"
-  authors: Li, C.
-  journal: 'Nature Chemical Engineering'
-  year: (2025)
-  paper: https://www.nature.com/articles/s44286-025-00213-x
-  bibtex: 2025NATURE.bib
-
-- title: "FaultExplainer: Leveraging large language models for interpretable fault detection and diagnosis"
+- title: "FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis"
   authors: Khan, A., Nahar, R., Chen, H., Constante-Flores, G. E., & Li, C.
-  journal: 'Computers & Chemical Engineering'
+  journal: Computers & Chemical Engineering, 199, 109152
   year: (2025)
   paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135425001565
-  bibtex: 2025CACE1.bib
 
-- title: "A Tutorial on Multi-time Scale Optimization Models and Algorithms"
-  authors: Ramanujam, A. & Li, C.
-  journal:  'arXiv'
+- title: "Breaking Data Silos in Drug Discovery with Federated Learning"
+  authors: Li, C.
+  journal: Nature Chemical Engineering, 2(5), 288-289
   year: (2025)
-  paper: https://arxiv.org/abs/2502.20568
-  bibtex: 2025ARXIV2.bib
+  paper: https://www.nature.com/articles/s44286-025-00213-x
 
-- title: "A Quadratically-Constrained Convex Approximation for the AC Optimal Power Flow"
-  authors: Constante-Flores, G. & Li, C.
-  journal:  'arXiv'
+- title: "Solution Polishing via Path Relinking for Continuous Black-Box Optimization"
+  authors: Papageorgiou, D. J., Kronqvist, J., Ramanujam, A., Kor, J., Kim, Y., & Li, C.
+  journal: Optimization Letters, 19(3), 463-504
   year: (2025)
-  paper: https://arxiv.org/abs/2501.05623
-  bibtex: 2025ARXIV.bib
+  paper: https://link.springer.com/article/10.1007/s11590-024-02127-8
+
+- title: "Enhanced Outer-Approximation Methods for MINLP via Convexification and Bound Tightening"
+  authors: Peng, Z., Cao, K., Furman, K. C., Li, C., Grossmann, I. E., & Bernal Neira, D. E.
+  journal: 'Submitted for publication'
+  year: (2025)
+  paper: https://egon.cheme.cmu.edu/Papers/Peng_MINLP_COA%20-%20IJoC.pdf
 
 - title: "AC-Network-Informed DC Optimal Power Flow for Electricity Markets"
-  authors: Constante-Flores, G., Conejo, A.J., Quisaguano, A.H., Li, C.
-  journal:  'Proceedings of the 58th Hawaii International Conference on System Sciences'
+  authors: Constante-Flores, G. E., Quisaguano, A. H., Conejo, A. J., & Li, C.
+  journal: Proceedings of the 58th Hawaii International Conference on System Sciences
   year: (2025)
   paper: https://arxiv.org/abs/2410.18413
-  bibtex: 2025ICSS.bib
-
-- title: "Physics-informed neural networks with hard linear equality constraints"
-  image: 2024CACE2.png
-  description:  Physics-informed neural network (PINN) leverages known physical constraints present in the data, but it cannot strictly satisfy them in the predictions. We propose an architecture to rigorously guarantee hard linear equality constraints through projection layers derived from KKT conditions. 
-  authors: Chen, H., Constante-Flores, G., & Li, C.
-  journal:  'Computers & Chemical Engineering'
-  year: (2024)
-  paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820
-  bibtex: 2024CACE.bib
-  highlight: 1
 
 - title: "Diagnosing Infeasible Optimization Problems Using Large Language Models"
   image: 2023OptiChat.png
-  description: One of the primary barriers to deploying optimization or machine learning models in practice is the challenge of helping practitioners understand and interpret such models. We propose a first-of-its-kind system that enables natural language-based diagnosis and troubleshooting for infeasible optimization models using LLM. 
-  authors: Chen, H., Constante-Flores, G., & Li, C.
-  journal:  'INFOR: Information Systems and Operational Research'
+  description: One of the primary barriers to deploying optimization or machine learning models in practice is the challenge of helping practitioners understand and interpret such models. We propose a first-of-its-kind system that enables natural language-based diagnosis and troubleshooting for infeasible optimization models using LLM.
+  authors: Chen, H., Constante-Flores, G. E., & Li, C.
+  journal: 'INFOR: Information Systems and Operational Research, 62(4), 573-587'
   year: (2024)
   paper: https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2385189
   preprint: 2023ARXIV.pdf
-  bibtex: 2024INFOR.bib
   highlight: 1
 
-- title: "Solution polishing via path relinking for continuous black-box optimization"
-  authors: Papageorgiou, D.J., Kronqvist, J., Ramanujam, A., Kor, J., Kim, Y., Li, C.
-  journal:  Optimization Letters
+- title: "Physics-Informed Neural Networks with Hard Linear Equality Constraints"
+  image: 2024CACE2.png
+  description: Physics-informed neural network (PINN) leverages known physical constraints present in the data, but it cannot strictly satisfy them in the predictions. We propose an architecture to rigorously guarantee hard linear equality constraints through projection layers derived from KKT conditions.
+  authors: Chen, H., Constante-Flores, G., & Li, C.
+  journal: Computers & Chemical Engineering, 189, 108764
   year: (2024)
-  paper: https://link.springer.com/article/10.1007/s11590-024-02127-8#citeas
-  bibtex: 2024OL.bib
+  paper: https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820
+  highlight: 1
+
+- title: "A Convexication-Based Outer-Approximation Method for Convex and Nonconvex MINLP"
+  authors: Peng, Z., Cao, K., Furman, K. C., Li, C., Grossmann, I. E., & Bernal Neira, D. E.
+  journal: Computer Aided Chemical Engineering, 53, 3211-3216
+  year: (2024)
+  paper: https://doi.org/10.1016/B978-0-443-28824-1.50536-6
 
 - title: "Distributed manufacturing for electrified chemical processes in a microgrid"
   image: 2023Microgrid.png
@@ -117,89 +139,84 @@
   year: (2023)
   paper: https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.18265
   preprint: 2023AICHE.pdf
-  bibtex: 2023AICHE.bib
   highlight: 1
 
-- title: "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization"
+- title: "Recent Advances and Challenges in Optimization Models for Expansion Planning of Power Systems and Reliability Optimization"
   authors: Cho, S., Li, C., & Grossmann, I. E.
-  journal:  Computers & Chemical Engineering, 107924.
+  journal: Computers & Chemical Engineering, 165, 107924
   year: (2022)
-  paper: https://www.sciencedirect.com/science/article/pii/S0098135422002629?casa_token=hJXU2yK_jEQAAAAA:A4KEv5YpYHyhm7Ioq959kxG_YXcnlZPuXNv52WzRJgo3tVnecuT8EAgIJQP6NWMY_lYuHfEwBw
+  paper: https://www.sciencedirect.com/science/article/pii/S0098135422002629
   preprint: 2022CACE.pdf
-  bibtex: 2022CACE.bib
 
-- title: " A Review on the Performance of Linear and Mixed Integer Two-Stage Stochastic Programming Software"
-  authors: Torres, J. J., Li, C., Apap, R. M., & Grossmann, I. E.
-  journal:   Algorithms, 15(4)
+- title: "Engineering Chimeric Antigen Receptor Neutrophils from Human Pluripotent Stem Cells for Targeted Cancer Immunotherapy"
+  authors: Chang, Y., Syahirah, R., Wang, X., Jin, G., Torregrosa-Allen, S., Elzey, B. D., Hummel, S. N., Wang, T., Li, C., Lian, X., Deng, Q., Broxmeyer, H. E., & Bao, X.
+  journal: Cell Reports, 40(3), 111128
   year: (2022)
-  paper: https://www.mdpi.com/1999-4893/15/4/103
-  bibtex: 2022MDPI.bib
+  paper: https://doi.org/10.1016/j.celrep.2022.111128
 
-- title: "Mixed-integer linear programming models and algorithms for generation and transmission expansion planning of power systems"
-  image: 2021EJOR.png
-  description: The major economies in the world all have set their target for net zero carbon emission. To achieve this goal, the electricity capacity needs to be expanded in the next 30 years under high renewable penetration. We propose a mathematical model and several solution techniques for expanding the capacity in the Texas region.
-  authors: Li, C., A.J. Conejo, P. Liu, B.P. Omell, J.D. Siirola, I.E. Grossmann.
-  journal: European Journal of Operations Research
-  year: (2021)
-  paper: https://www.sciencedirect.com/science/article/pii/S0377221721005397?casa_token=4ixbz08pQwEAAAAA:IWnFrCuufvv4EzZykvtMO6DntJzkhenEKPE5cTqkY263ppi0NOOdVkc2Eor7K3ypqyL8KL55lDVT
-  preprint: 2021EJOR.pdf
-  slides: 2021EJOR.pdf
-  bibtex: 2021EJOR.bib
-  higlight: 1
-
-- title: "On representative day selection for capacity expansion planning of power systems under extreme operating conditions"
+- title: "On Representative Day Selection for Capacity Expansion Planning of Power Systems Under Extreme Operating Conditions"
   image: 2021Energy.png
   description: Renewable generation and load demand can vary significantly from day to day. To capture the variations of renewable and improve the reliability of the power systems, we propose machine learning-based methods for selecting some representative days in the capacity expansion planning model. The inclusion of the extreme events reduce the risk of blackouts in power systems planning.
-  authors: Li, C., A.J. Conejo, J.D. Siirola, I.E. Grossmann
-  journal: International Journal of Electrical Power & Energy Systems
-  year: (2021)
+  authors: Li, C., Conejo, A. J., Siirola, J. D., & Grossmann, I. E.
+  journal: International Journal of Electrical Power & Energy Systems, 137, 107697
+  year: (2022)
   preprint: 2021Energy.pdf
   paper: https://www.sciencedirect.com/science/article/pii/S0142061521009248
   slides: Energy2021.pdf
-  bibtex: 2021energy.bib
 
-- title: "Shale gas field development planning under production profile uncertainty"
+- title: "A Review on the Performance of Linear and Mixed Integer Two-Stage Stochastic Programming Software"
+  authors: Torres, J. J., Li, C., Apap, R. M., & Grossmann, I. E.
+  journal: Algorithms, 15(4), 103
+  year: (2022)
+  paper: https://www.mdpi.com/1999-4893/15/4/103
+
+- title: "Mixed-Integer Linear Programming Models and Algorithms for Generation and Transmission Expansion Planning of Power Systems"
+  image: 2021EJOR.png
+  description: The major economies in the world all have set their target for net zero carbon emission. To achieve this goal, the electricity capacity needs to be expanded in the next 30 years under high renewable penetration. We propose a mathematical model and several solution techniques for expanding the capacity in the Texas region.
+  authors: Li, C., Conejo, A. J., Liu, P., Omell, B. P., Siirola, J. D., & Grossmann, I. E.
+  journal: European Journal of Operational Research, 297(3), 1071-1082
+  year: (2022)
+  paper: https://www.sciencedirect.com/science/article/pii/S0377221721005397
+  preprint: 2021EJOR.pdf
+  slides: 2021EJOR.pdf
+  higlight: 1
+
+- title: "Shale Gas Field Development Planning Under Production Profile Uncertainty"
   authors: Peng, Z., Li, C., Grossmann, I. E., Kwon, K., Ko, S., Shin, J., & Feng, Y.
-  journal:  AIChE Journal, e17439.
-  year: (2021)
-  paper: https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.17439?casa_token=biIcwovvn70AAAAA%3AVmFqoqyKguZUBVS9Hz5YaHks2uJUiC-r8anZKmeCn0wirS73-P49q8qlyCC3s8T2MUc-p-Ous7ligShqLQ
-  bibtex: 2021AICHEJ2.bib
+  journal: AIChE Journal, 68(1), e17439
+  year: (2022)
+  paper: https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.17439
 
-- title: "A Review of Stochastic Programming Methods for Optimization of Process Systems Under Uncertainty"
-  authors: Li, C., & Grossmann, I. E.
-  journal:  Frontiers in Chemical Engineering, 2, 34
+- title: "Sample Average Approximation for Stochastic Nonconvex Mixed Integer Nonlinear Programming via Outer-Approximation"
+  authors: Li, C., Bernal, D. E., Furman, K. C., Duran, M. A., & Grossmann, I. E.
+  journal: Optimization and Engineering, 22(3), 1245-1273
   year: (2021)
-  paper: https://www.frontiersin.org/articles/10.3389/fceng.2020.622241/full
-  bibtex: 2021Frontiers.bib
-  preprint: 2021Frontiers.pdf
+  paper: https://link.springer.com/article/10.1007/s11081-020-09563-2
+
+- title: "Multi-Period Design and Planning Model of Shale Gas Field Development"
+  authors: Peng, Z., Li, C., Grossmann, I. E., Kwon, K., Ko, S., Shin, J., & Feng, Y.
+  journal: AIChE Journal, 67(8), e17195
+  year: (2021)
+  paper: https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.17195
 
 - title: "Algorithmic Approaches to Inventory Management Optimization"
   authors: Perez, H. D., Hubbs, C. D., Li, C., & Grossmann, I. E.
-  journal:  Processes, 9(1), 102
+  journal: Processes, 9(1), 102
   year: (2021)
   paper: https://www.mdpi.com/2227-9717/9/1/102
-  bibtex: 2021MDPI.bib
 
-- title: "Multi-period Design and Planning Model of Shale Gas Field Development."
-  authors: Peng, Z., Li, C., Grossmann, I. E., Kwon, K., Ko, S., Shin, J., & Feng, Y.
-  journal:  AIChE Journal, e17195
+- title: "A Review of Stochastic Programming Methods for Optimization of Process Systems Under Uncertainty"
+  authors: Li, C., & Grossmann, I. E.
+  journal: Frontiers in Chemical Engineering, 2, 34
   year: (2021)
-  paper: https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.17195
-  bibtex: 2021AICHEJ.bib
+  paper: https://www.frontiersin.org/articles/10.3389/fceng.2020.622241/full
+  preprint: 2021Frontiers.pdf
 
 - title: "A deep reinforcement learning approach for chemical production scheduling"
   authors: Hubbs, C. D., Li, C., Sahinidis, N. V., Grossmann, I. E., & Wassick, J. M.
   journal:  Computers & Chemical Engineering, 141, 106982
   year: (2020)
   paper: https://www.sciencedirect.com/science/article/pii/S0098135420301599
-  bibtex: 2020CACE.bib
-
-- title: "Sample average approximation for stochastic nonconvex mixed integer nonlinear programming via outer-approximation"
-  authors: Li, C., Bernal, D. E., Furman, K. C., Duran, M. A., & Grossmann, I. E.
-  journal:  Optimization and Engineering, 1-29
-  year: (2020)
-  paper: https://link.springer.com/article/10.1007/s11081-020-09563-2
-  bibtex: 2020OPTE.bib
 
 - title: "Shale gas pad development planning under price uncertainty"
   authors: Li, C., Eason, J. P., Drouven, M. G., & Grossmann, I. E.
@@ -208,7 +225,6 @@
   journal:  AIChE Journal, 66(6), e16933
   year: (2020)
   paper: https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.16933
-  bibtex: 2020AICHEJ.bib
   slides: 2020AICHEJ.pdf
   preprint: 2020AICHEJ.pdf
 
@@ -220,7 +236,6 @@
   year: (2019)
   paper: https://link.springer.com/article/10.1007/s10898-019-00816-8
   preprint: 2019JOGO.pdf
-  bibtex: 2019JOGO.bib
   slides: 2019JOGO.pdf
 
 - title: "A finite ϵ-convergence algorithm for two-stage stochastic convex nonlinear programs with mixed-binary first and second-stage variables"
@@ -229,7 +244,6 @@
   year: (2019)
   paper: https://link.springer.com/article/10.1007/s10898-019-00820-y
   preprint: 2019JOGO2.pdf
-  bibtex: 2019JOGO2.bib
   slides: 2019JOGO2.pdf
 
 - title: "Global Optimization Algorithm for Multi-period Design and Planning of Centralized and Distributed Manufacturing Networks"
@@ -237,7 +251,6 @@
   journal: Computers & Chemical Engineering, 127, 295-310
   year: (2019)
   paper: https://www.sciencedirect.com/science/article/pii/S0098135419301310
-  bibtex: 2019CACE.bib
   preprint: 2019CACE.pdf
 
 - title: "An improved L-shaped method for two-stage convex 0–1 mixed integer nonlinear stochastic programs"
@@ -245,7 +258,6 @@
   journal: Computers & Chemical Engineering, 112, 165-179
   year: (2018)
   paper: https://www.sciencedirect.com/science/article/pii/S0098135418300413
-  bibtex: 2018CACE.bib
   preprint: 2018CACE.pdf
 
 - title: "Sequence-Based Prediction of Cysteine Reactivity Using Machine Learning"
@@ -253,4 +265,3 @@
   journal:  Biochemistry, 57(4), 451-460
   year: (2018)
   paper: https://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b00897
-  bibtex: 2018BIO.bib
